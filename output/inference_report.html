@@ -1,0 +1,61 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>GraphSAGE推理结果</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 20px; }
+            .container { max-width: 1200px; margin: 0 auto; }
+            .stats { margin-bottom: 20px; padding: 10px; background-color: #f5f5f5; border-radius: 5px; }
+            .image-container { display: flex; flex-wrap: wrap; justify-content: space-between; }
+            .image-box { margin-bottom: 20px; text-align: center; }
+            img { max-width: 100%; border: 1px solid #ddd; }
+            h2 { color: #333; }
+            table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+            th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+            th { background-color: #f2f2f2; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>分类学推理结果报告</h1>
+            
+            <div class="stats">
+                <h2>统计信息</h2>
+                <p>总实体数: 1141</p>
+                <p>高置信度预测: 1109 (97.20%)</p>
+                <p>估计正确率: 95.97%</p>
+                
+                <h3>按类型统计</h3>
+                <table>
+                    <tr><th>类型</th><th>数量</th></tr>
+                    <tr><td>phage</td><td>671</td></tr><tr><td>host</td><td>470</td></tr>
+                </table>
+                
+                <h3>按预测统计</h3>
+                <table>
+                    <tr><th>预测</th><th>数量</th></tr>
+                    <tr><td>class_0</td><td>671</td></tr><tr><td>class_1</td><td>424</td></tr><tr><td>class_2</td><td>46</td></tr>
+                </table>
+            </div>
+            
+            <div class="image-container">
+                <div class="image-box">
+                    <h2>置信度分布</h2>
+                    <img src="confidence_distribution.png" alt="置信度分布">
+                </div>
+                
+                <div class="image-box">
+                    <h2>按类型的预测分布</h2>
+                    <img src="prediction_by_type.png" alt="按类型的预测分布">
+                </div>
+                
+                <div class="image-box">
+                    <h2>混淆矩阵</h2>
+                    <img src="confusion_matrix.png" alt="混淆矩阵">
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+    

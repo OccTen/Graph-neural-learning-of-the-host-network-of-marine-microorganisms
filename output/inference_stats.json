@@ -1,0 +1,15 @@
+{
+  "total_entities": 1141,
+  "by_type": {
+    "phage": 671,
+    "host": 470
+  },
+  "by_prediction": {
+    "class_0": 671,
+    "class_1": 424,
+    "class_2": 46
+  },
+  "high_confidence_count": 1109,
+  "high_confidence_ratio": 0.971954425942156,
+  "estimated_accuracy": 0.9596844872918493
+}

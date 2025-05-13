@@ -1,0 +1,5180 @@
+{
+  "P_K_Bacteria": {
+    "node_id": 0,
+    "entity": "Phage",
+    "level": "kingdom",
+    "value": "Bacteria"
+  },
+  "P_K_Viruses": {
+    "node_id": 1,
+    "entity": "Phage",
+    "level": "kingdom",
+    "value": "Viruses"
+  },
+  "P_P_Dividoviricota": {
+    "node_id": 2,
+    "entity": "Phage",
+    "level": "phylum",
+    "value": "Dividoviricota"
+  },
+  "P_P_Duplornaviricota": {
+    "node_id": 3,
+    "entity": "Phage",
+    "level": "phylum",
+    "value": "Duplornaviricota"
+  },
+  "P_P_Hofneiviricota": {
+    "node_id": 4,
+    "entity": "Phage",
+    "level": "phylum",
+    "value": "Hofneiviricota"
+  },
+  "P_P_Lenarviricota": {
+    "node_id": 5,
+    "entity": "Phage",
+    "level": "phylum",
+    "value": "Lenarviricota"
+  },
+  "P_P_Phixviricota": {
+    "node_id": 6,
+    "entity": "Phage",
+    "level": "phylum",
+    "value": "Phixviricota"
+  },
+  "P_P_Preplasmiviricota": {
+    "node_id": 7,
+    "entity": "Phage",
+    "level": "phylum",
+    "value": "Preplasmiviricota"
+  },
+  "P_P_Proteobacteria": {
+    "node_id": 8,
+    "entity": "Phage",
+    "level": "phylum",
+    "value": "Proteobacteria"
+  },
+  "P_P_Saleviricota": {
+    "node_id": 9,
+    "entity": "Phage",
+    "level": "phylum",
+    "value": "Saleviricota"
+  },
+  "P_P_Uroviricota": {
+    "node_id": 10,
+    "entity": "Phage",
+    "level": "phylum",
+    "value": "Uroviricota"
+  },
+  "P_C_Allassoviricetes": {
+    "node_id": 11,
+    "entity": "Phage",
+    "level": "class",
+    "value": "Allassoviricetes"
+  },
+  "P_C_Caudoviricetes": {
+    "node_id": 12,
+    "entity": "Phage",
+    "level": "class",
+    "value": "Caudoviricetes"
+  },
+  "P_C_Faserviricetes": {
+    "node_id": 13,
+    "entity": "Phage",
+    "level": "class",
+    "value": "Faserviricetes"
+  },
+  "P_C_Gammaproteobacteria": {
+    "node_id": 14,
+    "entity": "Phage",
+    "level": "class",
+    "value": "Gammaproteobacteria"
+  },
+  "P_C_Huolimaviricetes": {
+    "node_id": 15,
+    "entity": "Phage",
+    "level": "class",
+    "value": "Huolimaviricetes"
+  },
+  "P_C_Laserviricetes": {
+    "node_id": 16,
+    "entity": "Phage",
+    "level": "class",
+    "value": "Laserviricetes"
+  },
+  "P_C_Malgrandaviricetes": {
+    "node_id": 17,
+    "entity": "Phage",
+    "level": "class",
+    "value": "Malgrandaviricetes"
+  },
+  "P_C_Tectiliviricetes": {
+    "node_id": 18,
+    "entity": "Phage",
+    "level": "class",
+    "value": "Tectiliviricetes"
+  },
+  "P_C_Vidaverviricetes": {
+    "node_id": 19,
+    "entity": "Phage",
+    "level": "class",
+    "value": "Vidaverviricetes"
+  },
+  "P_O_Belfryvirales": {
+    "node_id": 20,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Belfryvirales"
+  },
+  "P_O_Caudovirales": {
+    "node_id": 21,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Caudovirales"
+  },
+  "P_O_Enterobacterales": {
+    "node_id": 22,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Enterobacterales"
+  },
+  "P_O_Halopanivirales": {
+    "node_id": 23,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Halopanivirales"
+  },
+  "P_O_Haloruvirales": {
+    "node_id": 24,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Haloruvirales"
+  },
+  "P_O_Kalamavirales": {
+    "node_id": 25,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Kalamavirales"
+  },
+  "P_O_Levivirales": {
+    "node_id": 26,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Levivirales"
+  },
+  "P_O_Ligamenvirales": {
+    "node_id": 27,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Ligamenvirales"
+  },
+  "P_O_Mindivirales": {
+    "node_id": 28,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Mindivirales"
+  },
+  "P_O_Petitvirales": {
+    "node_id": 29,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Petitvirales"
+  },
+  "P_O_Tubulavirales": {
+    "node_id": 30,
+    "entity": "Phage",
+    "level": "order",
+    "value": "Tubulavirales"
+  },
+  "P_F_Ackermannviridae": {
+    "node_id": 31,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Ackermannviridae"
+  },
+  "P_F_Ampullaviridae": {
+    "node_id": 32,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Ampullaviridae"
+  },
+  "P_F_Autographiviridae": {
+    "node_id": 33,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Autographiviridae"
+  },
+  "P_F_Bicaudaviridae": {
+    "node_id": 34,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Bicaudaviridae"
+  },
+  "P_F_Chaseviridae": {
+    "node_id": 35,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Chaseviridae"
+  },
+  "P_F_Cystoviridae": {
+    "node_id": 36,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Cystoviridae"
+  },
+  "P_F_Demerecviridae": {
+    "node_id": 37,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Demerecviridae"
+  },
+  "P_F_Drexlerviridae": {
+    "node_id": 38,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Drexlerviridae"
+  },
+  "P_F_Enterobacteriaceae": {
+    "node_id": 39,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Enterobacteriaceae"
+  },
+  "P_F_Fuselloviridae": {
+    "node_id": 40,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Fuselloviridae"
+  },
+  "P_F_Herelleviridae": {
+    "node_id": 41,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Herelleviridae"
+  },
+  "P_F_Inoviridae": {
+    "node_id": 42,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Inoviridae"
+  },
+  "P_F_Leviviridae": {
+    "node_id": 43,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Leviviridae"
+  },
+  "P_F_Lipothrixviridae": {
+    "node_id": 44,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Lipothrixviridae"
+  },
+  "P_F_Microviridae": {
+    "node_id": 45,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Microviridae"
+  },
+  "P_F_Myoviridae": {
+    "node_id": 46,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Myoviridae"
+  },
+  "P_F_Plasmaviridae": {
+    "node_id": 47,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Plasmaviridae"
+  },
+  "P_F_Pleolipoviridae": {
+    "node_id": 48,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Pleolipoviridae"
+  },
+  "P_F_Podoviridae": {
+    "node_id": 49,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Podoviridae"
+  },
+  "P_F_Rudiviridae": {
+    "node_id": 50,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Rudiviridae"
+  },
+  "P_F_Siphoviridae": {
+    "node_id": 51,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Siphoviridae"
+  },
+  "P_F_Sphaerolipoviridae": {
+    "node_id": 52,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Sphaerolipoviridae"
+  },
+  "P_F_Tectiviridae": {
+    "node_id": 53,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Tectiviridae"
+  },
+  "P_F_Turriviridae": {
+    "node_id": 54,
+    "entity": "Phage",
+    "level": "family",
+    "value": "Turriviridae"
+  },
+  "P_G_Abidjanvirus": {
+    "node_id": 55,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Abidjanvirus"
+  },
+  "P_G_Abouovirus": {
+    "node_id": 56,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Abouovirus"
+  },
+  "P_G_Acadianvirus": {
+    "node_id": 57,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Acadianvirus"
+  },
+  "P_G_Acionnavirus": {
+    "node_id": 58,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Acionnavirus"
+  },
+  "P_G_Aerosvirus": {
+    "node_id": 59,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Aerosvirus"
+  },
+  "P_G_Affertcholeramvirus": {
+    "node_id": 60,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Affertcholeramvirus"
+  },
+  "P_G_Agatevirus": {
+    "node_id": 61,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Agatevirus"
+  },
+  "P_G_Agricanvirus": {
+    "node_id": 62,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Agricanvirus"
+  },
+  "P_G_Agtrevirus": {
+    "node_id": 63,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Agtrevirus"
+  },
+  "P_G_Ahduovirus": {
+    "node_id": 64,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Ahduovirus"
+  },
+  "P_G_Ahtivirus": {
+    "node_id": 65,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Ahtivirus"
+  },
+  "P_G_Alcyoneusvirus": {
+    "node_id": 66,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Alcyoneusvirus"
+  },
+  "P_G_Allolevivirus": {
+    "node_id": 67,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Allolevivirus"
+  },
+  "P_G_Alphafusellovirus": {
+    "node_id": 68,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Alphafusellovirus"
+  },
+  "P_G_Alphapleolipovirus": {
+    "node_id": 69,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Alphapleolipovirus"
+  },
+  "P_G_Alphasphaerolipovirus": {
+    "node_id": 70,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Alphasphaerolipovirus"
+  },
+  "P_G_Alphatrevirus": {
+    "node_id": 71,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Alphatrevirus"
+  },
+  "P_G_Alphaturrivirus": {
+    "node_id": 72,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Alphaturrivirus"
+  },
+  "P_G_Ampullavirus": {
+    "node_id": 73,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Ampullavirus"
+  },
+  "P_G_Anaposvirus": {
+    "node_id": 74,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Anaposvirus"
+  },
+  "P_G_Andromedavirus": {
+    "node_id": 75,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Andromedavirus"
+  },
+  "P_G_Arequatrovirus": {
+    "node_id": 76,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Arequatrovirus"
+  },
+  "P_G_Aresaunavirus": {
+    "node_id": 77,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Aresaunavirus"
+  },
+  "P_G_Asteriusvirus": {
+    "node_id": 78,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Asteriusvirus"
+  },
+  "P_G_Aurunvirus": {
+    "node_id": 79,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Aurunvirus"
+  },
+  "P_G_Avunavirus": {
+    "node_id": 80,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Avunavirus"
+  },
+  "P_G_Baikalvirus": {
+    "node_id": 81,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Baikalvirus"
+  },
+  "P_G_Baltimorevirus": {
+    "node_id": 82,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Baltimorevirus"
+  },
+  "P_G_Banchanvirus": {
+    "node_id": 83,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Banchanvirus"
+  },
+  "P_G_Barnyardvirus": {
+    "node_id": 84,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Barnyardvirus"
+  },
+  "P_G_Bastillevirus": {
+    "node_id": 85,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bastillevirus"
+  },
+  "P_G_Baylorvirus": {
+    "node_id": 86,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Baylorvirus"
+  },
+  "P_G_Bcepmuvirus": {
+    "node_id": 87,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bcepmuvirus"
+  },
+  "P_G_Bdellomicrovirus": {
+    "node_id": 88,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bdellomicrovirus"
+  },
+  "P_G_Beetrevirus": {
+    "node_id": 89,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Beetrevirus"
+  },
+  "P_G_Bequatrovirus": {
+    "node_id": 90,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bequatrovirus"
+  },
+  "P_G_Berlinvirus": {
+    "node_id": 91,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Berlinvirus"
+  },
+  "P_G_Bernalvirus": {
+    "node_id": 92,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bernalvirus"
+  },
+  "P_G_Betafusellovirus": {
+    "node_id": 93,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Betafusellovirus"
+  },
+  "P_G_Betalipothrixvirus": {
+    "node_id": 94,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Betalipothrixvirus"
+  },
+  "P_G_Betapleolipovirus": {
+    "node_id": 95,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Betapleolipovirus"
+  },
+  "P_G_Betatectivirus": {
+    "node_id": 96,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Betatectivirus"
+  },
+  "P_G_Bielevirus": {
+    "node_id": 97,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bielevirus"
+  },
+  "P_G_Bifseptvirus": {
+    "node_id": 98,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bifseptvirus"
+  },
+  "P_G_Bignuzvirus": {
+    "node_id": 99,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bignuzvirus"
+  },
+  "P_G_Biquartavirus": {
+    "node_id": 100,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Biquartavirus"
+  },
+  "P_G_Biseptimavirus": {
+    "node_id": 101,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Biseptimavirus"
+  },
+  "P_G_Bixzunavirus": {
+    "node_id": 102,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bixzunavirus"
+  },
+  "P_G_Bongovirus": {
+    "node_id": 103,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bongovirus"
+  },
+  "P_G_Brizovirus": {
+    "node_id": 104,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Brizovirus"
+  },
+  "P_G_Bronvirus": {
+    "node_id": 105,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bronvirus"
+  },
+  "P_G_Brujitavirus": {
+    "node_id": 106,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Brujitavirus"
+  },
+  "P_G_Brussowvirus": {
+    "node_id": 107,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Brussowvirus"
+  },
+  "P_G_Bruynoghevirus": {
+    "node_id": 108,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Bruynoghevirus"
+  },
+  "P_G_Buttersvirus": {
+    "node_id": 109,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Buttersvirus"
+  },
+  "P_G_Caeruleovirus": {
+    "node_id": 110,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Caeruleovirus"
+  },
+  "P_G_Caroctavirus": {
+    "node_id": 111,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Caroctavirus"
+  },
+  "P_G_Casadabanvirus": {
+    "node_id": 112,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Casadabanvirus"
+  },
+  "P_G_Cbastvirus": {
+    "node_id": 113,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cbastvirus"
+  },
+  "P_G_Cecivirus": {
+    "node_id": 114,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cecivirus"
+  },
+  "P_G_Ceduovirus": {
+    "node_id": 115,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Ceduovirus"
+  },
+  "P_G_Cepunavirus": {
+    "node_id": 116,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cepunavirus"
+  },
+  "P_G_Cequinquevirus": {
+    "node_id": 117,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cequinquevirus"
+  },
+  "P_G_Certrevirus": {
+    "node_id": 118,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Certrevirus"
+  },
+  "P_G_Charlievirus": {
+    "node_id": 119,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Charlievirus"
+  },
+  "P_G_Chatterjeevirus": {
+    "node_id": 120,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Chatterjeevirus"
+  },
+  "P_G_Chenonavirus": {
+    "node_id": 121,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Chenonavirus"
+  },
+  "P_G_Cheoctovirus": {
+    "node_id": 122,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cheoctovirus"
+  },
+  "P_G_Cheungvirus": {
+    "node_id": 123,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cheungvirus"
+  },
+  "P_G_Chivirus": {
+    "node_id": 124,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Chivirus"
+  },
+  "P_G_Chlamydiamicrovirus": {
+    "node_id": 125,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Chlamydiamicrovirus"
+  },
+  "P_G_Chungbukvirus": {
+    "node_id": 126,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Chungbukvirus"
+  },
+  "P_G_Cimpunavirus": {
+    "node_id": 127,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cimpunavirus"
+  },
+  "P_G_Cinunavirus": {
+    "node_id": 128,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cinunavirus"
+  },
+  "P_G_Citexvirus": {
+    "node_id": 129,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Citexvirus"
+  },
+  "P_G_Coetzeevirus": {
+    "node_id": 130,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Coetzeevirus"
+  },
+  "P_G_Colossusvirus": {
+    "node_id": 131,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Colossusvirus"
+  },
+  "P_G_Coopervirus": {
+    "node_id": 132,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Coopervirus"
+  },
+  "P_G_Corndogvirus": {
+    "node_id": 133,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Corndogvirus"
+  },
+  "P_G_Cornellvirus": {
+    "node_id": 134,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cornellvirus"
+  },
+  "P_G_Cronosvirus": {
+    "node_id": 135,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cronosvirus"
+  },
+  "P_G_Cystovirus": {
+    "node_id": 136,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Cystovirus"
+  },
+  "P_G_Daemvirus": {
+    "node_id": 137,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Daemvirus"
+  },
+  "P_G_Deltalipothrixvirus": {
+    "node_id": 138,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Deltalipothrixvirus"
+  },
+  "P_G_Derbicusvirus": {
+    "node_id": 139,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Derbicusvirus"
+  },
+  "P_G_Detrevirus": {
+    "node_id": 140,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Detrevirus"
+  },
+  "P_G_Dhakavirus": {
+    "node_id": 141,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Dhakavirus"
+  },
+  "P_G_Dhillonvirus": {
+    "node_id": 142,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Dhillonvirus"
+  },
+  "P_G_Diegovirus": {
+    "node_id": 143,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Diegovirus"
+  },
+  "P_G_Drulisvirus": {
+    "node_id": 144,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Drulisvirus"
+  },
+  "P_G_Efquatrovirus": {
+    "node_id": 145,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Efquatrovirus"
+  },
+  "P_G_Eiauvirus": {
+    "node_id": 146,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Eiauvirus"
+  },
+  "P_G_Eisenstarkvirus": {
+    "node_id": 147,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Eisenstarkvirus"
+  },
+  "P_G_Elunavirus": {
+    "node_id": 148,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Elunavirus"
+  },
+  "P_G_Elvirus": {
+    "node_id": 149,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Elvirus"
+  },
+  "P_G_Emalynvirus": {
+    "node_id": 150,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Emalynvirus"
+  },
+  "P_G_Enhodamvirus": {
+    "node_id": 151,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Enhodamvirus"
+  },
+  "P_G_Enquatrovirus": {
+    "node_id": 152,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Enquatrovirus"
+  },
+  "P_G_Entnonagintavirus": {
+    "node_id": 153,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Entnonagintavirus"
+  },
+  "P_G_Epseptimavirus": {
+    "node_id": 154,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Epseptimavirus"
+  },
+  "P_G_Ermolevavirus": {
+    "node_id": 155,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Ermolevavirus"
+  },
+  "P_G_Erskinevirus": {
+    "node_id": 156,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Erskinevirus"
+  },
+  "P_G_Eurybiavirus": {
+    "node_id": 157,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Eurybiavirus"
+  },
+  "P_G_Felixounavirus": {
+    "node_id": 158,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Felixounavirus"
+  },
+  "P_G_Fibrovirus": {
+    "node_id": 159,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Fibrovirus"
+  },
+  "P_G_Firehammervirus": {
+    "node_id": 160,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Firehammervirus"
+  },
+  "P_G_Fischettivirus": {
+    "node_id": 161,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Fischettivirus"
+  },
+  "P_G_Fishburnevirus": {
+    "node_id": 162,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Fishburnevirus"
+  },
+  "P_G_Fletchervirus": {
+    "node_id": 163,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Fletchervirus"
+  },
+  "P_G_Franklinbayvirus": {
+    "node_id": 164,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Franklinbayvirus"
+  },
+  "P_G_Friunavirus": {
+    "node_id": 165,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Friunavirus"
+  },
+  "P_G_Fromanvirus": {
+    "node_id": 166,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Fromanvirus"
+  },
+  "P_G_Gaiavirus": {
+    "node_id": 167,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Gaiavirus"
+  },
+  "P_G_Gamaleyavirus": {
+    "node_id": 168,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Gamaleyavirus"
+  },
+  "P_G_Gammalipothrixvirus": {
+    "node_id": 169,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Gammalipothrixvirus"
+  },
+  "P_G_Gammasphaerolipovirus": {
+    "node_id": 170,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Gammasphaerolipovirus"
+  },
+  "P_G_Gaprivervirus": {
+    "node_id": 171,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Gaprivervirus"
+  },
+  "P_G_Gelderlandvirus": {
+    "node_id": 172,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Gelderlandvirus"
+  },
+  "P_G_Gequatrovirus": {
+    "node_id": 173,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Gequatrovirus"
+  },
+  "P_G_Getseptimavirus": {
+    "node_id": 174,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Getseptimavirus"
+  },
+  "P_G_Ghunavirus": {
+    "node_id": 175,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Ghunavirus"
+  },
+  "P_G_Gilesvirus": {
+    "node_id": 176,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Gilesvirus"
+  },
+  "P_G_Guelphvirus": {
+    "node_id": 177,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Guelphvirus"
+  },
+  "P_G_Haartmanvirus": {
+    "node_id": 178,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Haartmanvirus"
+  },
+  "P_G_Habenivirus": {
+    "node_id": 179,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Habenivirus"
+  },
+  "P_G_Hanrivervirus": {
+    "node_id": 180,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Hanrivervirus"
+  },
+  "P_G_Hapunavirus": {
+    "node_id": 181,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Hapunavirus"
+  },
+  "P_G_Hawkeyevirus": {
+    "node_id": 182,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Hawkeyevirus"
+  },
+  "P_G_Helsingorvirus": {
+    "node_id": 183,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Helsingorvirus"
+  },
+  "P_G_Hendrixvirus": {
+    "node_id": 184,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Hendrixvirus"
+  },
+  "P_G_Higashivirus": {
+    "node_id": 185,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Higashivirus"
+  },
+  "P_G_Homburgvirus": {
+    "node_id": 186,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Homburgvirus"
+  },
+  "P_G_Iapetusvirus": {
+    "node_id": 187,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Iapetusvirus"
+  },
+  "P_G_Inhavirus": {
+    "node_id": 188,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Inhavirus"
+  },
+  "P_G_Inovirus": {
+    "node_id": 189,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Inovirus"
+  },
+  "P_G_Iodovirus": {
+    "node_id": 190,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Iodovirus"
+  },
+  "P_G_Ionavirus": {
+    "node_id": 191,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Ionavirus"
+  },
+  "P_G_Irtavirus": {
+    "node_id": 192,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Irtavirus"
+  },
+  "P_G_Ithacavirus": {
+    "node_id": 193,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Ithacavirus"
+  },
+  "P_G_Jedunavirus": {
+    "node_id": 194,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Jedunavirus"
+  },
+  "P_G_Jerseyvirus": {
+    "node_id": 195,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Jerseyvirus"
+  },
+  "P_G_Jiaoyazivirus": {
+    "node_id": 196,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Jiaoyazivirus"
+  },
+  "P_G_Jilinvirus": {
+    "node_id": 197,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Jilinvirus"
+  },
+  "P_G_Johnsonvirus": {
+    "node_id": 198,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Johnsonvirus"
+  },
+  "P_G_Jwalphavirus": {
+    "node_id": 199,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Jwalphavirus"
+  },
+  "P_G_Kafunavirus": {
+    "node_id": 200,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kafunavirus"
+  },
+  "P_G_Kajamvirus": {
+    "node_id": 201,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kajamvirus"
+  },
+  "P_G_Kaohsiungvirus": {
+    "node_id": 202,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kaohsiungvirus"
+  },
+  "P_G_Karamvirus": {
+    "node_id": 203,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Karamvirus"
+  },
+  "P_G_Kayfunavirus": {
+    "node_id": 204,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kayfunavirus"
+  },
+  "P_G_Kayvirus": {
+    "node_id": 205,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kayvirus"
+  },
+  "P_G_Kelmasvirus": {
+    "node_id": 206,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kelmasvirus"
+  },
+  "P_G_Kembevirus": {
+    "node_id": 207,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kembevirus"
+  },
+  "P_G_Kilunavirus": {
+    "node_id": 208,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kilunavirus"
+  },
+  "P_G_Kisquattuordecimvirus": {
+    "node_id": 209,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kisquattuordecimvirus"
+  },
+  "P_G_Kisquinquevirus": {
+    "node_id": 210,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kisquinquevirus"
+  },
+  "P_G_Klebsiella": {
+    "node_id": 211,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Klebsiella"
+  },
+  "P_G_Klementvirus": {
+    "node_id": 212,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Klementvirus"
+  },
+  "P_G_Kochikohdavirus": {
+    "node_id": 213,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kochikohdavirus"
+  },
+  "P_G_Kochitakasuvirus": {
+    "node_id": 214,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kochitakasuvirus"
+  },
+  "P_G_Kolesnikvirus": {
+    "node_id": 215,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kolesnikvirus"
+  },
+  "P_G_Kostyavirus": {
+    "node_id": 216,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kostyavirus"
+  },
+  "P_G_Krischvirus": {
+    "node_id": 217,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Krischvirus"
+  },
+  "P_G_Krylovvirus": {
+    "node_id": 218,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Krylovvirus"
+  },
+  "P_G_Kuravirus": {
+    "node_id": 219,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kuravirus"
+  },
+  "P_G_Kuttervirus": {
+    "node_id": 220,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Kuttervirus"
+  },
+  "P_G_Lambdavirus": {
+    "node_id": 221,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Lambdavirus"
+  },
+  "P_G_Lederbergvirus": {
+    "node_id": 222,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Lederbergvirus"
+  },
+  "P_G_Lessievirus": {
+    "node_id": 223,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Lessievirus"
+  },
+  "P_G_Levivirus": {
+    "node_id": 224,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Levivirus"
+  },
+  "P_G_Lidleunavirus": {
+    "node_id": 225,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Lidleunavirus"
+  },
+  "P_G_Liefievirus": {
+    "node_id": 226,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Liefievirus"
+  },
+  "P_G_Lightbulbvirus": {
+    "node_id": 227,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Lightbulbvirus"
+  },
+  "P_G_Likavirus": {
+    "node_id": 228,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Likavirus"
+  },
+  "P_G_Limdunavirus": {
+    "node_id": 229,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Limdunavirus"
+  },
+  "P_G_Limelightvirus": {
+    "node_id": 230,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Limelightvirus"
+  },
+  "P_G_Limestonevirus": {
+    "node_id": 231,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Limestonevirus"
+  },
+  "P_G_Lingvirus": {
+    "node_id": 232,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Lingvirus"
+  },
+  "P_G_Lirvirus": {
+    "node_id": 233,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Lirvirus"
+  },
+  "P_G_Litunavirus": {
+    "node_id": 234,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Litunavirus"
+  },
+  "P_G_Llyrvirus": {
+    "node_id": 235,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Llyrvirus"
+  },
+  "P_G_Loessnervirus": {
+    "node_id": 236,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Loessnervirus"
+  },
+  "P_G_Lokivirus": {
+    "node_id": 237,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Lokivirus"
+  },
+  "P_G_Longwoodvirus": {
+    "node_id": 238,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Longwoodvirus"
+  },
+  "P_G_Lubbockvirus": {
+    "node_id": 239,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Lubbockvirus"
+  },
+  "P_G_Luzseptimavirus": {
+    "node_id": 240,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Luzseptimavirus"
+  },
+  "P_G_Lwoffvirus": {
+    "node_id": 241,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Lwoffvirus"
+  },
+  "P_G_Maculvirus": {
+    "node_id": 242,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Maculvirus"
+  },
+  "P_G_Mapvirus": {
+    "node_id": 243,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Mapvirus"
+  },
+  "P_G_Mardecavirus": {
+    "node_id": 244,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Mardecavirus"
+  },
+  "P_G_Marvinvirus": {
+    "node_id": 245,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Marvinvirus"
+  },
+  "P_G_Mguuvirus": {
+    "node_id": 246,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Mguuvirus"
+  },
+  "P_G_Mimasvirus": {
+    "node_id": 247,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Mimasvirus"
+  },
+  "P_G_Minipunavirus": {
+    "node_id": 248,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Minipunavirus"
+  },
+  "P_G_Minunavirus": {
+    "node_id": 249,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Minunavirus"
+  },
+  "P_G_Moineauvirus": {
+    "node_id": 250,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Moineauvirus"
+  },
+  "P_G_Mosigvirus": {
+    "node_id": 251,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Mosigvirus"
+  },
+  "P_G_Muvirus": {
+    "node_id": 252,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Muvirus"
+  },
+  "P_G_Myxoctovirus": {
+    "node_id": 253,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Myxoctovirus"
+  },
+  "P_G_Naesvirus": {
+    "node_id": 254,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Naesvirus"
+  },
+  "P_G_Nampongvirus": {
+    "node_id": 255,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Nampongvirus"
+  },
+  "P_G_Nankokuvirus": {
+    "node_id": 256,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Nankokuvirus"
+  },
+  "P_G_Negarvirus": {
+    "node_id": 257,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Negarvirus"
+  },
+  "P_G_Nerrivikvirus": {
+    "node_id": 258,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Nerrivikvirus"
+  },
+  "P_G_Nickievirus": {
+    "node_id": 259,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Nickievirus"
+  },
+  "P_G_Nitunavirus": {
+    "node_id": 260,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Nitunavirus"
+  },
+  "P_G_Nonagvirus": {
+    "node_id": 261,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Nonagvirus"
+  },
+  "P_G_Nonanavirus": {
+    "node_id": 262,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Nonanavirus"
+  },
+  "P_G_Obolenskvirus": {
+    "node_id": 263,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Obolenskvirus"
+  },
+  "P_G_Okubovirus": {
+    "node_id": 264,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Okubovirus"
+  },
+  "P_G_Omegavirus": {
+    "node_id": 265,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Omegavirus"
+  },
+  "P_G_Oshimavirus": {
+    "node_id": 266,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Oshimavirus"
+  },
+  "P_G_Oslovirus": {
+    "node_id": 267,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Oslovirus"
+  },
+  "P_G_Otagovirus": {
+    "node_id": 268,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Otagovirus"
+  },
+  "P_G_Pagevirus": {
+    "node_id": 269,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pagevirus"
+  },
+  "P_G_Pahexavirus": {
+    "node_id": 270,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pahexavirus"
+  },
+  "P_G_Pahsextavirus": {
+    "node_id": 271,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pahsextavirus"
+  },
+  "P_G_Pairvirus": {
+    "node_id": 272,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pairvirus"
+  },
+  "P_G_Pakpunavirus": {
+    "node_id": 273,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pakpunavirus"
+  },
+  "P_G_Palaemonvirus": {
+    "node_id": 274,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Palaemonvirus"
+  },
+  "P_G_Papyrusvirus": {
+    "node_id": 275,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Papyrusvirus"
+  },
+  "P_G_Parhipatevirus": {
+    "node_id": 276,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Parhipatevirus"
+  },
+  "P_G_Patiencevirus": {
+    "node_id": 277,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Patiencevirus"
+  },
+  "P_G_Pbunavirus": {
+    "node_id": 278,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pbunavirus"
+  },
+  "P_G_Pecentumvirus": {
+    "node_id": 279,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pecentumvirus"
+  },
+  "P_G_Peduovirus": {
+    "node_id": 280,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Peduovirus"
+  },
+  "P_G_Pegunavirus": {
+    "node_id": 281,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pegunavirus"
+  },
+  "P_G_Pelagivirus": {
+    "node_id": 282,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pelagivirus"
+  },
+  "P_G_Pepyhexavirus": {
+    "node_id": 283,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pepyhexavirus"
+  },
+  "P_G_Perisivirus": {
+    "node_id": 284,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Perisivirus"
+  },
+  "P_G_Pettyvirus": {
+    "node_id": 285,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pettyvirus"
+  },
+  "P_G_Phapecoctavirus": {
+    "node_id": 286,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Phapecoctavirus"
+  },
+  "P_G_Phicbkvirus": {
+    "node_id": 287,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Phicbkvirus"
+  },
+  "P_G_Phietavirus": {
+    "node_id": 288,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Phietavirus"
+  },
+  "P_G_Phifelvirus": {
+    "node_id": 289,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Phifelvirus"
+  },
+  "P_G_Phikmvvirus": {
+    "node_id": 290,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Phikmvvirus"
+  },
+  "P_G_Picardvirus": {
+    "node_id": 291,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Picardvirus"
+  },
+  "P_G_Pifdecavirus": {
+    "node_id": 292,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pifdecavirus"
+  },
+  "P_G_Pipefishvirus": {
+    "node_id": 293,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pipefishvirus"
+  },
+  "P_G_Plasmavirus": {
+    "node_id": 294,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Plasmavirus"
+  },
+  "P_G_Plotvirus": {
+    "node_id": 295,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Plotvirus"
+  },
+  "P_G_Pokrovskaiavirus": {
+    "node_id": 296,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pokrovskaiavirus"
+  },
+  "P_G_Pontusvirus": {
+    "node_id": 297,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pontusvirus"
+  },
+  "P_G_Popoffvirus": {
+    "node_id": 298,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Popoffvirus"
+  },
+  "P_G_Poseidonvirus": {
+    "node_id": 299,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Poseidonvirus"
+  },
+  "P_G_Pradovirus": {
+    "node_id": 300,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Pradovirus"
+  },
+  "P_G_Przondovirus": {
+    "node_id": 301,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Przondovirus"
+  },
+  "P_G_Psavirus": {
+    "node_id": 302,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Psavirus"
+  },
+  "P_G_Psimunavirus": {
+    "node_id": 303,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Psimunavirus"
+  },
+  "P_G_Radnorvirus": {
+    "node_id": 304,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Radnorvirus"
+  },
+  "P_G_Redivirus": {
+    "node_id": 305,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Redivirus"
+  },
+  "P_G_Rerduovirus": {
+    "node_id": 306,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Rerduovirus"
+  },
+  "P_G_Rigallicvirus": {
+    "node_id": 307,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Rigallicvirus"
+  },
+  "P_G_Rogunavirus": {
+    "node_id": 308,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Rogunavirus"
+  },
+  "P_G_Rosenblumvirus": {
+    "node_id": 309,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Rosenblumvirus"
+  },
+  "P_G_Roufvirus": {
+    "node_id": 310,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Roufvirus"
+  },
+  "P_G_Rtpvirus": {
+    "node_id": 311,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Rtpvirus"
+  },
+  "P_G_Rudivirus": {
+    "node_id": 312,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Rudivirus"
+  },
+  "P_G_Saetivirus": {
+    "node_id": 313,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Saetivirus"
+  },
+  "P_G_Salacisavirus": {
+    "node_id": 314,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Salacisavirus"
+  },
+  "P_G_Salasvirus": {
+    "node_id": 315,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Salasvirus"
+  },
+  "P_G_Saphexavirus": {
+    "node_id": 316,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Saphexavirus"
+  },
+  "P_G_Sasvirus": {
+    "node_id": 317,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Sasvirus"
+  },
+  "P_G_Saundersvirus": {
+    "node_id": 318,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Saundersvirus"
+  },
+  "P_G_Schizotequatrovirus": {
+    "node_id": 319,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Schizotequatrovirus"
+  },
+  "P_G_Schmidvirus": {
+    "node_id": 320,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Schmidvirus"
+  },
+  "P_G_Schmittlotzvirus": {
+    "node_id": 321,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Schmittlotzvirus"
+  },
+  "P_G_Sednavirus": {
+    "node_id": 322,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Sednavirus"
+  },
+  "P_G_Septimatrevirus": {
+    "node_id": 323,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Septimatrevirus"
+  },
+  "P_G_Seunavirus": {
+    "node_id": 324,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Seunavirus"
+  },
+  "P_G_Sextaecvirus": {
+    "node_id": 325,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Sextaecvirus"
+  },
+  "P_G_Shapirovirus": {
+    "node_id": 326,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Shapirovirus"
+  },
+  "P_G_Silviavirus": {
+    "node_id": 327,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Silviavirus"
+  },
+  "P_G_Siminovitchvirus": {
+    "node_id": 328,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Siminovitchvirus"
+  },
+  "P_G_Simpcentumvirus": {
+    "node_id": 329,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Simpcentumvirus"
+  },
+  "P_G_Sinsheimervirus": {
+    "node_id": 330,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Sinsheimervirus"
+  },
+  "P_G_Sitaravirus": {
+    "node_id": 331,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Sitaravirus"
+  },
+  "P_G_Skunavirus": {
+    "node_id": 332,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Skunavirus"
+  },
+  "P_G_Slashvirus": {
+    "node_id": 333,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Slashvirus"
+  },
+  "P_G_Slopekvirus": {
+    "node_id": 334,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Slopekvirus"
+  },
+  "P_G_Staminivirus": {
+    "node_id": 335,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Staminivirus"
+  },
+  "P_G_Stanholtvirus": {
+    "node_id": 336,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Stanholtvirus"
+  },
+  "P_G_Stockinghallvirus": {
+    "node_id": 337,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Stockinghallvirus"
+  },
+  "P_G_Stopavirus": {
+    "node_id": 338,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Stopavirus"
+  },
+  "P_G_Stubburvirus": {
+    "node_id": 339,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Stubburvirus"
+  },
+  "P_G_Subteminivirus": {
+    "node_id": 340,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Subteminivirus"
+  },
+  "P_G_Suwonvirus": {
+    "node_id": 341,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Suwonvirus"
+  },
+  "P_G_Svunavirus": {
+    "node_id": 342,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Svunavirus"
+  },
+  "P_G_Tangaroavirus": {
+    "node_id": 343,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tangaroavirus"
+  },
+  "P_G_Teetrevirus": {
+    "node_id": 344,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Teetrevirus"
+  },
+  "P_G_Tefnutvirus": {
+    "node_id": 345,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tefnutvirus"
+  },
+  "P_G_Tegunavirus": {
+    "node_id": 346,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tegunavirus"
+  },
+  "P_G_Tequatrovirus": {
+    "node_id": 347,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tequatrovirus"
+  },
+  "P_G_Tequintavirus": {
+    "node_id": 348,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tequintavirus"
+  },
+  "P_G_Tertilicivirus": {
+    "node_id": 349,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tertilicivirus"
+  },
+  "P_G_Teseptimavirus": {
+    "node_id": 350,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Teseptimavirus"
+  },
+  "P_G_Thetisvirus": {
+    "node_id": 351,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Thetisvirus"
+  },
+  "P_G_Tigrvirus": {
+    "node_id": 352,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tigrvirus"
+  },
+  "P_G_Tigunavirus": {
+    "node_id": 353,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tigunavirus"
+  },
+  "P_G_Tiilvirus": {
+    "node_id": 354,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tiilvirus"
+  },
+  "P_G_Tijeunavirus": {
+    "node_id": 355,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tijeunavirus"
+  },
+  "P_G_Timquatrovirus": {
+    "node_id": 356,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Timquatrovirus"
+  },
+  "P_G_Traversvirus": {
+    "node_id": 357,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Traversvirus"
+  },
+  "P_G_Triavirus": {
+    "node_id": 358,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Triavirus"
+  },
+  "P_G_Tritonvirus": {
+    "node_id": 359,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tritonvirus"
+  },
+  "P_G_Tsarbombavirus": {
+    "node_id": 360,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tsarbombavirus"
+  },
+  "P_G_Tulanevirus": {
+    "node_id": 361,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tulanevirus"
+  },
+  "P_G_Tunavirus": {
+    "node_id": 362,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tunavirus"
+  },
+  "P_G_Tunggulviirus": {
+    "node_id": 363,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tunggulviirus"
+  },
+  "P_G_Tuodvirus": {
+    "node_id": 364,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Tuodvirus"
+  },
+  "P_G_Uetakevirus": {
+    "node_id": 365,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Uetakevirus"
+  },
+  "P_G_Unahavirus": {
+    "node_id": 366,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Unahavirus"
+  },
+  "P_G_Unaquatrovirus": {
+    "node_id": 367,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Unaquatrovirus"
+  },
+  "P_G_Vellamovirus": {
+    "node_id": 368,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Vellamovirus"
+  },
+  "P_G_Vequintavirus": {
+    "node_id": 369,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Vequintavirus"
+  },
+  "P_G_Versovirus": {
+    "node_id": 370,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Versovirus"
+  },
+  "P_G_Vhmlvirus": {
+    "node_id": 371,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Vhmlvirus"
+  },
+  "P_G_Vicialiavirus": {
+    "node_id": 372,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Vicialiavirus"
+  },
+  "P_G_Vicosavirus": {
+    "node_id": 373,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Vicosavirus"
+  },
+  "P_G_Vieuvirus": {
+    "node_id": 374,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Vieuvirus"
+  },
+  "P_G_Villovirus": {
+    "node_id": 375,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Villovirus"
+  },
+  "P_G_Vipunavirus": {
+    "node_id": 376,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Vipunavirus"
+  },
+  "P_G_Viunavirus": {
+    "node_id": 377,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Viunavirus"
+  },
+  "P_G_Voetvirus": {
+    "node_id": 378,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Voetvirus"
+  },
+  "P_G_Waewaevirus": {
+    "node_id": 379,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Waewaevirus"
+  },
+  "P_G_Wbetavirus": {
+    "node_id": 380,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Wbetavirus"
+  },
+  "P_G_Webervirus": {
+    "node_id": 381,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Webervirus"
+  },
+  "P_G_Wifcevirus": {
+    "node_id": 382,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Wifcevirus"
+  },
+  "P_G_Wphvirus": {
+    "node_id": 383,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Wphvirus"
+  },
+  "P_G_Xiamenvirus": {
+    "node_id": 384,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Xiamenvirus"
+  },
+  "P_G_Xipdecavirus": {
+    "node_id": 385,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Xipdecavirus"
+  },
+  "P_G_Yokohamavirus": {
+    "node_id": 386,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Yokohamavirus"
+  },
+  "P_G_Yuavirus": {
+    "node_id": 387,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Yuavirus"
+  },
+  "P_G_Yushanvirus": {
+    "node_id": 388,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Yushanvirus"
+  },
+  "P_G_Zindervirus": {
+    "node_id": 389,
+    "entity": "Phage",
+    "level": "genus",
+    "value": "Zindervirus"
+  },
+  "H_K_Archaea": {
+    "node_id": 390,
+    "entity": "Host",
+    "level": "kingdom",
+    "value": "Archaea"
+  },
+  "H_K_Bacteria": {
+    "node_id": 391,
+    "entity": "Host",
+    "level": "kingdom",
+    "value": "Bacteria"
+  },
+  "H_P_Actinobacteria": {
+    "node_id": 392,
+    "entity": "Host",
+    "level": "phylum",
+    "value": "Actinobacteria"
+  },
+  "H_P_Bacteroidetes": {
+    "node_id": 393,
+    "entity": "Host",
+    "level": "phylum",
+    "value": "Bacteroidetes"
+  },
+  "H_P_Chlamydiae": {
+    "node_id": 394,
+    "entity": "Host",
+    "level": "phylum",
+    "value": "Chlamydiae"
+  },
+  "H_P_Crenarchaeota": {
+    "node_id": 395,
+    "entity": "Host",
+    "level": "phylum",
+    "value": "Crenarchaeota"
+  },
+  "H_P_Cyanobacteria": {
+    "node_id": 396,
+    "entity": "Host",
+    "level": "phylum",
+    "value": "Cyanobacteria"
+  },
+  "H_P_Deinococcus-Thermus": {
+    "node_id": 397,
+    "entity": "Host",
+    "level": "phylum",
+    "value": "Deinococcus-Thermus"
+  },
+  "H_P_Euryarchaeota": {
+    "node_id": 398,
+    "entity": "Host",
+    "level": "phylum",
+    "value": "Euryarchaeota"
+  },
+  "H_P_Firmicutes": {
+    "node_id": 399,
+    "entity": "Host",
+    "level": "phylum",
+    "value": "Firmicutes"
+  },
+  "H_P_Proteobacteria": {
+    "node_id": 400,
+    "entity": "Host",
+    "level": "phylum",
+    "value": "Proteobacteria"
+  },
+  "H_P_Tenericutes": {
+    "node_id": 401,
+    "entity": "Host",
+    "level": "phylum",
+    "value": "Tenericutes"
+  },
+  "H_C_Actinobacteria": {
+    "node_id": 402,
+    "entity": "Host",
+    "level": "class",
+    "value": "Actinobacteria"
+  },
+  "H_C_Alphaproteobacteria": {
+    "node_id": 403,
+    "entity": "Host",
+    "level": "class",
+    "value": "Alphaproteobacteria"
+  },
+  "H_C_Bacilli": {
+    "node_id": 404,
+    "entity": "Host",
+    "level": "class",
+    "value": "Bacilli"
+  },
+  "H_C_Bacteroidia": {
+    "node_id": 405,
+    "entity": "Host",
+    "level": "class",
+    "value": "Bacteroidia"
+  },
+  "H_C_Betaproteobacteria": {
+    "node_id": 406,
+    "entity": "Host",
+    "level": "class",
+    "value": "Betaproteobacteria"
+  },
+  "H_C_Chlamydiia": {
+    "node_id": 407,
+    "entity": "Host",
+    "level": "class",
+    "value": "Chlamydiia"
+  },
+  "H_C_Clostridia": {
+    "node_id": 408,
+    "entity": "Host",
+    "level": "class",
+    "value": "Clostridia"
+  },
+  "H_C_Deinococci": {
+    "node_id": 409,
+    "entity": "Host",
+    "level": "class",
+    "value": "Deinococci"
+  },
+  "H_C_Deltaproteobacteria": {
+    "node_id": 410,
+    "entity": "Host",
+    "level": "class",
+    "value": "Deltaproteobacteria"
+  },
+  "H_C_Epsilonproteobacteria": {
+    "node_id": 411,
+    "entity": "Host",
+    "level": "class",
+    "value": "Epsilonproteobacteria"
+  },
+  "H_C_Flavobacteriia": {
+    "node_id": 412,
+    "entity": "Host",
+    "level": "class",
+    "value": "Flavobacteriia"
+  },
+  "H_C_Gammaproteobacteria": {
+    "node_id": 413,
+    "entity": "Host",
+    "level": "class",
+    "value": "Gammaproteobacteria"
+  },
+  "H_C_Halobacteria": {
+    "node_id": 414,
+    "entity": "Host",
+    "level": "class",
+    "value": "Halobacteria"
+  },
+  "H_C_Methanobacteria": {
+    "node_id": 415,
+    "entity": "Host",
+    "level": "class",
+    "value": "Methanobacteria"
+  },
+  "H_C_Mollicutes": {
+    "node_id": 416,
+    "entity": "Host",
+    "level": "class",
+    "value": "Mollicutes"
+  },
+  "H_C_Nanohaloarchaea": {
+    "node_id": 417,
+    "entity": "Host",
+    "level": "class",
+    "value": "Nanohaloarchaea"
+  },
+  "H_C_Oligoflexia": {
+    "node_id": 418,
+    "entity": "Host",
+    "level": "class",
+    "value": "Oligoflexia"
+  },
+  "H_C_Thermococci": {
+    "node_id": 419,
+    "entity": "Host",
+    "level": "class",
+    "value": "Thermococci"
+  },
+  "H_C_Thermoprotei": {
+    "node_id": 420,
+    "entity": "Host",
+    "level": "class",
+    "value": "Thermoprotei"
+  },
+  "H_O_Actinomycetales": {
+    "node_id": 421,
+    "entity": "Host",
+    "level": "order",
+    "value": "Actinomycetales"
+  },
+  "H_O_Aeromonadales": {
+    "node_id": 422,
+    "entity": "Host",
+    "level": "order",
+    "value": "Aeromonadales"
+  },
+  "H_O_Alteromonadales": {
+    "node_id": 423,
+    "entity": "Host",
+    "level": "order",
+    "value": "Alteromonadales"
+  },
+  "H_O_Bacillales": {
+    "node_id": 424,
+    "entity": "Host",
+    "level": "order",
+    "value": "Bacillales"
+  },
+  "H_O_Bacteroidales": {
+    "node_id": 425,
+    "entity": "Host",
+    "level": "order",
+    "value": "Bacteroidales"
+  },
+  "H_O_Bacteroidetes Order II. Incertae sedis": {
+    "node_id": 426,
+    "entity": "Host",
+    "level": "order",
+    "value": "Bacteroidetes Order II. Incertae sedis"
+  },
+  "H_O_Bdellovibrionales": {
+    "node_id": 427,
+    "entity": "Host",
+    "level": "order",
+    "value": "Bdellovibrionales"
+  },
+  "H_O_Burkholderiales": {
+    "node_id": 428,
+    "entity": "Host",
+    "level": "order",
+    "value": "Burkholderiales"
+  },
+  "H_O_Campylobacterales": {
+    "node_id": 429,
+    "entity": "Host",
+    "level": "order",
+    "value": "Campylobacterales"
+  },
+  "H_O_Caulobacterales": {
+    "node_id": 430,
+    "entity": "Host",
+    "level": "order",
+    "value": "Caulobacterales"
+  },
+  "H_O_Chlamydiales": {
+    "node_id": 431,
+    "entity": "Host",
+    "level": "order",
+    "value": "Chlamydiales"
+  },
+  "H_O_Clostridiales": {
+    "node_id": 432,
+    "entity": "Host",
+    "level": "order",
+    "value": "Clostridiales"
+  },
+  "H_O_Corynebacteriales": {
+    "node_id": 433,
+    "entity": "Host",
+    "level": "order",
+    "value": "Corynebacteriales"
+  },
+  "H_O_Enterobacterales": {
+    "node_id": 434,
+    "entity": "Host",
+    "level": "order",
+    "value": "Enterobacterales"
+  },
+  "H_O_Entomoplasmatales": {
+    "node_id": 435,
+    "entity": "Host",
+    "level": "order",
+    "value": "Entomoplasmatales"
+  },
+  "H_O_Flavobacteriales": {
+    "node_id": 436,
+    "entity": "Host",
+    "level": "order",
+    "value": "Flavobacteriales"
+  },
+  "H_O_Halobacteriales": {
+    "node_id": 437,
+    "entity": "Host",
+    "level": "order",
+    "value": "Halobacteriales"
+  },
+  "H_O_Haloferacales": {
+    "node_id": 438,
+    "entity": "Host",
+    "level": "order",
+    "value": "Haloferacales"
+  },
+  "H_O_Lactobacillales": {
+    "node_id": 439,
+    "entity": "Host",
+    "level": "order",
+    "value": "Lactobacillales"
+  },
+  "H_O_Methanobacteriales": {
+    "node_id": 440,
+    "entity": "Host",
+    "level": "order",
+    "value": "Methanobacteriales"
+  },
+  "H_O_Micrococcales": {
+    "node_id": 441,
+    "entity": "Host",
+    "level": "order",
+    "value": "Micrococcales"
+  },
+  "H_O_Mycoplasmatales": {
+    "node_id": 442,
+    "entity": "Host",
+    "level": "order",
+    "value": "Mycoplasmatales"
+  },
+  "H_O_Myxococcales": {
+    "node_id": 443,
+    "entity": "Host",
+    "level": "order",
+    "value": "Myxococcales"
+  },
+  "H_O_Neisseriales": {
+    "node_id": 444,
+    "entity": "Host",
+    "level": "order",
+    "value": "Neisseriales"
+  },
+  "H_O_Nostocales": {
+    "node_id": 445,
+    "entity": "Host",
+    "level": "order",
+    "value": "Nostocales"
+  },
+  "H_O_Oceanospirillales": {
+    "node_id": 446,
+    "entity": "Host",
+    "level": "order",
+    "value": "Oceanospirillales"
+  },
+  "H_O_Oscillatoriales": {
+    "node_id": 447,
+    "entity": "Host",
+    "level": "order",
+    "value": "Oscillatoriales"
+  },
+  "H_O_Pasteurellales": {
+    "node_id": 448,
+    "entity": "Host",
+    "level": "order",
+    "value": "Pasteurellales"
+  },
+  "H_O_Pelagibacterales": {
+    "node_id": 449,
+    "entity": "Host",
+    "level": "order",
+    "value": "Pelagibacterales"
+  },
+  "H_O_Propionibacteriales": {
+    "node_id": 450,
+    "entity": "Host",
+    "level": "order",
+    "value": "Propionibacteriales"
+  },
+  "H_O_Pseudomonadales": {
+    "node_id": 451,
+    "entity": "Host",
+    "level": "order",
+    "value": "Pseudomonadales"
+  },
+  "H_O_Rhizobiales": {
+    "node_id": 452,
+    "entity": "Host",
+    "level": "order",
+    "value": "Rhizobiales"
+  },
+  "H_O_Rhodobacterales": {
+    "node_id": 453,
+    "entity": "Host",
+    "level": "order",
+    "value": "Rhodobacterales"
+  },
+  "H_O_Rhodospirillales": {
+    "node_id": 454,
+    "entity": "Host",
+    "level": "order",
+    "value": "Rhodospirillales"
+  },
+  "H_O_Streptomycetales": {
+    "node_id": 455,
+    "entity": "Host",
+    "level": "order",
+    "value": "Streptomycetales"
+  },
+  "H_O_Sulfolobales": {
+    "node_id": 456,
+    "entity": "Host",
+    "level": "order",
+    "value": "Sulfolobales"
+  },
+  "H_O_Synechococcales": {
+    "node_id": 457,
+    "entity": "Host",
+    "level": "order",
+    "value": "Synechococcales"
+  },
+  "H_O_Thermales": {
+    "node_id": 458,
+    "entity": "Host",
+    "level": "order",
+    "value": "Thermales"
+  },
+  "H_O_Thermoanaerobacterales": {
+    "node_id": 459,
+    "entity": "Host",
+    "level": "order",
+    "value": "Thermoanaerobacterales"
+  },
+  "H_O_Thermococcales": {
+    "node_id": 460,
+    "entity": "Host",
+    "level": "order",
+    "value": "Thermococcales"
+  },
+  "H_O_Vibrionales": {
+    "node_id": 461,
+    "entity": "Host",
+    "level": "order",
+    "value": "Vibrionales"
+  },
+  "H_O_Xanthomonadales": {
+    "node_id": 462,
+    "entity": "Host",
+    "level": "order",
+    "value": "Xanthomonadales"
+  },
+  "H_F_Actinomycetaceae": {
+    "node_id": 463,
+    "entity": "Host",
+    "level": "family",
+    "value": "Actinomycetaceae"
+  },
+  "H_F_Aeromonadaceae": {
+    "node_id": 464,
+    "entity": "Host",
+    "level": "family",
+    "value": "Aeromonadaceae"
+  },
+  "H_F_Alcaligenaceae": {
+    "node_id": 465,
+    "entity": "Host",
+    "level": "family",
+    "value": "Alcaligenaceae"
+  },
+  "H_F_Alteromonadaceae": {
+    "node_id": 466,
+    "entity": "Host",
+    "level": "family",
+    "value": "Alteromonadaceae"
+  },
+  "H_F_Bacillaceae": {
+    "node_id": 467,
+    "entity": "Host",
+    "level": "family",
+    "value": "Bacillaceae"
+  },
+  "H_F_Bacteroidaceae": {
+    "node_id": 468,
+    "entity": "Host",
+    "level": "family",
+    "value": "Bacteroidaceae"
+  },
+  "H_F_Bdellovibrionaceae": {
+    "node_id": 469,
+    "entity": "Host",
+    "level": "family",
+    "value": "Bdellovibrionaceae"
+  },
+  "H_F_Brucellaceae": {
+    "node_id": 470,
+    "entity": "Host",
+    "level": "family",
+    "value": "Brucellaceae"
+  },
+  "H_F_Burkholderiaceae": {
+    "node_id": 471,
+    "entity": "Host",
+    "level": "family",
+    "value": "Burkholderiaceae"
+  },
+  "H_F_Campylobacteraceae": {
+    "node_id": 472,
+    "entity": "Host",
+    "level": "family",
+    "value": "Campylobacteraceae"
+  },
+  "H_F_Caulobacteraceae": {
+    "node_id": 473,
+    "entity": "Host",
+    "level": "family",
+    "value": "Caulobacteraceae"
+  },
+  "H_F_Chlamydiaceae": {
+    "node_id": 474,
+    "entity": "Host",
+    "level": "family",
+    "value": "Chlamydiaceae"
+  },
+  "H_F_Chromobacteriaceae": {
+    "node_id": 475,
+    "entity": "Host",
+    "level": "family",
+    "value": "Chromobacteriaceae"
+  },
+  "H_F_Clostridiaceae": {
+    "node_id": 476,
+    "entity": "Host",
+    "level": "family",
+    "value": "Clostridiaceae"
+  },
+  "H_F_Colwelliaceae": {
+    "node_id": 477,
+    "entity": "Host",
+    "level": "family",
+    "value": "Colwelliaceae"
+  },
+  "H_F_Comamonadaceae": {
+    "node_id": 478,
+    "entity": "Host",
+    "level": "family",
+    "value": "Comamonadaceae"
+  },
+  "H_F_Corynebacteriaceae": {
+    "node_id": 479,
+    "entity": "Host",
+    "level": "family",
+    "value": "Corynebacteriaceae"
+  },
+  "H_F_Enterobacteriaceae": {
+    "node_id": 480,
+    "entity": "Host",
+    "level": "family",
+    "value": "Enterobacteriaceae"
+  },
+  "H_F_Enterococcaceae": {
+    "node_id": 481,
+    "entity": "Host",
+    "level": "family",
+    "value": "Enterococcaceae"
+  },
+  "H_F_Erwiniaceae": {
+    "node_id": 482,
+    "entity": "Host",
+    "level": "family",
+    "value": "Erwiniaceae"
+  },
+  "H_F_Flavobacteriaceae": {
+    "node_id": 483,
+    "entity": "Host",
+    "level": "family",
+    "value": "Flavobacteriaceae"
+  },
+  "H_F_Gordoniaceae": {
+    "node_id": 484,
+    "entity": "Host",
+    "level": "family",
+    "value": "Gordoniaceae"
+  },
+  "H_F_Hafniaceae": {
+    "node_id": 485,
+    "entity": "Host",
+    "level": "family",
+    "value": "Hafniaceae"
+  },
+  "H_F_Haloarculaceae": {
+    "node_id": 486,
+    "entity": "Host",
+    "level": "family",
+    "value": "Haloarculaceae"
+  },
+  "H_F_Haloferacaceae": {
+    "node_id": 487,
+    "entity": "Host",
+    "level": "family",
+    "value": "Haloferacaceae"
+  },
+  "H_F_Halomonadaceae": {
+    "node_id": 488,
+    "entity": "Host",
+    "level": "family",
+    "value": "Halomonadaceae"
+  },
+  "H_F_Halorubraceae": {
+    "node_id": 489,
+    "entity": "Host",
+    "level": "family",
+    "value": "Halorubraceae"
+  },
+  "H_F_Helicobacteraceae": {
+    "node_id": 490,
+    "entity": "Host",
+    "level": "family",
+    "value": "Helicobacteraceae"
+  },
+  "H_F_Idiomarinaceae": {
+    "node_id": 491,
+    "entity": "Host",
+    "level": "family",
+    "value": "Idiomarinaceae"
+  },
+  "H_F_Intrasporangiaceae": {
+    "node_id": 492,
+    "entity": "Host",
+    "level": "family",
+    "value": "Intrasporangiaceae"
+  },
+  "H_F_Lactobacillaceae": {
+    "node_id": 493,
+    "entity": "Host",
+    "level": "family",
+    "value": "Lactobacillaceae"
+  },
+  "H_F_Leptolyngbyaceae": {
+    "node_id": 494,
+    "entity": "Host",
+    "level": "family",
+    "value": "Leptolyngbyaceae"
+  },
+  "H_F_Leuconostocaceae": {
+    "node_id": 495,
+    "entity": "Host",
+    "level": "family",
+    "value": "Leuconostocaceae"
+  },
+  "H_F_Listeriaceae": {
+    "node_id": 496,
+    "entity": "Host",
+    "level": "family",
+    "value": "Listeriaceae"
+  },
+  "H_F_Methanobacteriaceae": {
+    "node_id": 497,
+    "entity": "Host",
+    "level": "family",
+    "value": "Methanobacteriaceae"
+  },
+  "H_F_Microbacteriaceae": {
+    "node_id": 498,
+    "entity": "Host",
+    "level": "family",
+    "value": "Microbacteriaceae"
+  },
+  "H_F_Micrococcaceae": {
+    "node_id": 499,
+    "entity": "Host",
+    "level": "family",
+    "value": "Micrococcaceae"
+  },
+  "H_F_Microcoleaceae": {
+    "node_id": 500,
+    "entity": "Host",
+    "level": "family",
+    "value": "Microcoleaceae"
+  },
+  "H_F_Moraxellaceae": {
+    "node_id": 501,
+    "entity": "Host",
+    "level": "family",
+    "value": "Moraxellaceae"
+  },
+  "H_F_Morganellaceae": {
+    "node_id": 502,
+    "entity": "Host",
+    "level": "family",
+    "value": "Morganellaceae"
+  },
+  "H_F_Mycobacteriaceae": {
+    "node_id": 503,
+    "entity": "Host",
+    "level": "family",
+    "value": "Mycobacteriaceae"
+  },
+  "H_F_Mycoplasmataceae": {
+    "node_id": 504,
+    "entity": "Host",
+    "level": "family",
+    "value": "Mycoplasmataceae"
+  },
+  "H_F_Myxococcaceae": {
+    "node_id": 505,
+    "entity": "Host",
+    "level": "family",
+    "value": "Myxococcaceae"
+  },
+  "H_F_Nocardiaceae": {
+    "node_id": 506,
+    "entity": "Host",
+    "level": "family",
+    "value": "Nocardiaceae"
+  },
+  "H_F_Nostocaceae": {
+    "node_id": 507,
+    "entity": "Host",
+    "level": "family",
+    "value": "Nostocaceae"
+  },
+  "H_F_Oceanospirillaceae": {
+    "node_id": 508,
+    "entity": "Host",
+    "level": "family",
+    "value": "Oceanospirillaceae"
+  },
+  "H_F_Paenibacillaceae": {
+    "node_id": 509,
+    "entity": "Host",
+    "level": "family",
+    "value": "Paenibacillaceae"
+  },
+  "H_F_Pasteurellaceae": {
+    "node_id": 510,
+    "entity": "Host",
+    "level": "family",
+    "value": "Pasteurellaceae"
+  },
+  "H_F_Pectobacteriaceae": {
+    "node_id": 511,
+    "entity": "Host",
+    "level": "family",
+    "value": "Pectobacteriaceae"
+  },
+  "H_F_Pelagibacteraceae": {
+    "node_id": 512,
+    "entity": "Host",
+    "level": "family",
+    "value": "Pelagibacteraceae"
+  },
+  "H_F_Peptostreptococcaceae": {
+    "node_id": 513,
+    "entity": "Host",
+    "level": "family",
+    "value": "Peptostreptococcaceae"
+  },
+  "H_F_Phyllobacteriaceae": {
+    "node_id": 514,
+    "entity": "Host",
+    "level": "family",
+    "value": "Phyllobacteriaceae"
+  },
+  "H_F_Prochloraceae": {
+    "node_id": 515,
+    "entity": "Host",
+    "level": "family",
+    "value": "Prochloraceae"
+  },
+  "H_F_Propionibacteriaceae": {
+    "node_id": 516,
+    "entity": "Host",
+    "level": "family",
+    "value": "Propionibacteriaceae"
+  },
+  "H_F_Pseudoalteromonadaceae": {
+    "node_id": 517,
+    "entity": "Host",
+    "level": "family",
+    "value": "Pseudoalteromonadaceae"
+  },
+  "H_F_Pseudomonadaceae": {
+    "node_id": 518,
+    "entity": "Host",
+    "level": "family",
+    "value": "Pseudomonadaceae"
+  },
+  "H_F_Rhizobiaceae": {
+    "node_id": 519,
+    "entity": "Host",
+    "level": "family",
+    "value": "Rhizobiaceae"
+  },
+  "H_F_Rhodobacteraceae": {
+    "node_id": 520,
+    "entity": "Host",
+    "level": "family",
+    "value": "Rhodobacteraceae"
+  },
+  "H_F_Rhodospirillaceae": {
+    "node_id": 521,
+    "entity": "Host",
+    "level": "family",
+    "value": "Rhodospirillaceae"
+  },
+  "H_F_Rhodothermaceae": {
+    "node_id": 522,
+    "entity": "Host",
+    "level": "family",
+    "value": "Rhodothermaceae"
+  },
+  "H_F_Shewanellaceae": {
+    "node_id": 523,
+    "entity": "Host",
+    "level": "family",
+    "value": "Shewanellaceae"
+  },
+  "H_F_Spiroplasmataceae": {
+    "node_id": 524,
+    "entity": "Host",
+    "level": "family",
+    "value": "Spiroplasmataceae"
+  },
+  "H_F_Staphylococcaceae": {
+    "node_id": 525,
+    "entity": "Host",
+    "level": "family",
+    "value": "Staphylococcaceae"
+  },
+  "H_F_Streptococcaceae": {
+    "node_id": 526,
+    "entity": "Host",
+    "level": "family",
+    "value": "Streptococcaceae"
+  },
+  "H_F_Streptomycetaceae": {
+    "node_id": 527,
+    "entity": "Host",
+    "level": "family",
+    "value": "Streptomycetaceae"
+  },
+  "H_F_Sulfolobaceae": {
+    "node_id": 528,
+    "entity": "Host",
+    "level": "family",
+    "value": "Sulfolobaceae"
+  },
+  "H_F_Synechococcaceae": {
+    "node_id": 529,
+    "entity": "Host",
+    "level": "family",
+    "value": "Synechococcaceae"
+  },
+  "H_F_Thermaceae": {
+    "node_id": 530,
+    "entity": "Host",
+    "level": "family",
+    "value": "Thermaceae"
+  },
+  "H_F_Thermoanaerobacterales Family III. Incertae Sedis": {
+    "node_id": 531,
+    "entity": "Host",
+    "level": "family",
+    "value": "Thermoanaerobacterales Family III. Incertae Sedis"
+  },
+  "H_F_Thermococcaceae": {
+    "node_id": 532,
+    "entity": "Host",
+    "level": "family",
+    "value": "Thermococcaceae"
+  },
+  "H_F_Tsukamurellaceae": {
+    "node_id": 533,
+    "entity": "Host",
+    "level": "family",
+    "value": "Tsukamurellaceae"
+  },
+  "H_F_Vibrionaceae": {
+    "node_id": 534,
+    "entity": "Host",
+    "level": "family",
+    "value": "Vibrionaceae"
+  },
+  "H_F_Xanthomonadaceae": {
+    "node_id": 535,
+    "entity": "Host",
+    "level": "family",
+    "value": "Xanthomonadaceae"
+  },
+  "H_F_Yersiniaceae": {
+    "node_id": 536,
+    "entity": "Host",
+    "level": "family",
+    "value": "Yersiniaceae"
+  },
+  "H_G_Achromobacter": {
+    "node_id": 537,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Achromobacter"
+  },
+  "H_G_Acidianus": {
+    "node_id": 538,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Acidianus"
+  },
+  "H_G_Acinetobacter": {
+    "node_id": 539,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Acinetobacter"
+  },
+  "H_G_Actinomyces": {
+    "node_id": 540,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Actinomyces"
+  },
+  "H_G_Aeromonas": {
+    "node_id": 541,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Aeromonas"
+  },
+  "H_G_Aggregatibacter": {
+    "node_id": 542,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Aggregatibacter"
+  },
+  "H_G_Agrobacterium": {
+    "node_id": 543,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Agrobacterium"
+  },
+  "H_G_Aliivibrio": {
+    "node_id": 544,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Aliivibrio"
+  },
+  "H_G_Alteromonas": {
+    "node_id": 545,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Alteromonas"
+  },
+  "H_G_Arthrobacter": {
+    "node_id": 546,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Arthrobacter"
+  },
+  "H_G_Azospirillum": {
+    "node_id": 547,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Azospirillum"
+  },
+  "H_G_Bacillus": {
+    "node_id": 548,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Bacillus"
+  },
+  "H_G_Bacteroides": {
+    "node_id": 549,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Bacteroides"
+  },
+  "H_G_Bdellovibrio": {
+    "node_id": 550,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Bdellovibrio"
+  },
+  "H_G_Brevibacillus": {
+    "node_id": 551,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Brevibacillus"
+  },
+  "H_G_Brochothrix": {
+    "node_id": 552,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Brochothrix"
+  },
+  "H_G_Brucella": {
+    "node_id": 553,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Brucella"
+  },
+  "H_G_Burkholderia": {
+    "node_id": 554,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Burkholderia"
+  },
+  "H_G_Campylobacter": {
+    "node_id": 555,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Campylobacter"
+  },
+  "H_G_Candidatus Hamiltonella": {
+    "node_id": 556,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Candidatus Hamiltonella"
+  },
+  "H_G_Candidatus Pelagibacter": {
+    "node_id": 557,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Candidatus Pelagibacter"
+  },
+  "H_G_Candidatus Puniceispirillum": {
+    "node_id": 558,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Candidatus Puniceispirillum"
+  },
+  "H_G_Caulobacter": {
+    "node_id": 559,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Caulobacter"
+  },
+  "H_G_Celeribacter": {
+    "node_id": 560,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Celeribacter"
+  },
+  "H_G_Cellulophaga": {
+    "node_id": 561,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Cellulophaga"
+  },
+  "H_G_Chlamydia": {
+    "node_id": 562,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Chlamydia"
+  },
+  "H_G_Citrobacter": {
+    "node_id": 563,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Citrobacter"
+  },
+  "H_G_Clavibacter": {
+    "node_id": 564,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Clavibacter"
+  },
+  "H_G_Clostridioides": {
+    "node_id": 565,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Clostridioides"
+  },
+  "H_G_Clostridium": {
+    "node_id": 566,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Clostridium"
+  },
+  "H_G_Colwellia": {
+    "node_id": 567,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Colwellia"
+  },
+  "H_G_Corynebacterium": {
+    "node_id": 568,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Corynebacterium"
+  },
+  "H_G_Croceibacter": {
+    "node_id": 569,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Croceibacter"
+  },
+  "H_G_Cronobacter": {
+    "node_id": 570,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Cronobacter"
+  },
+  "H_G_Cutibacterium": {
+    "node_id": 571,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Cutibacterium"
+  },
+  "H_G_Delftia": {
+    "node_id": 572,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Delftia"
+  },
+  "H_G_Dickeya": {
+    "node_id": 573,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Dickeya"
+  },
+  "H_G_Dinoroseobacter": {
+    "node_id": 574,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Dinoroseobacter"
+  },
+  "H_G_Edwardsiella": {
+    "node_id": 575,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Edwardsiella"
+  },
+  "H_G_Enterobacter": {
+    "node_id": 576,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Enterobacter"
+  },
+  "H_G_Enterococcus": {
+    "node_id": 577,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Enterococcus"
+  },
+  "H_G_Erwinia": {
+    "node_id": 578,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Erwinia"
+  },
+  "H_G_Escherichia": {
+    "node_id": 579,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Escherichia"
+  },
+  "H_G_Flavobacterium": {
+    "node_id": 580,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Flavobacterium"
+  },
+  "H_G_Geobacillus": {
+    "node_id": 581,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Geobacillus"
+  },
+  "H_G_Glaesserella": {
+    "node_id": 582,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Glaesserella"
+  },
+  "H_G_Gordonia": {
+    "node_id": 583,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Gordonia"
+  },
+  "H_G_Haloarcula": {
+    "node_id": 584,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Haloarcula"
+  },
+  "H_G_Halogeometricum": {
+    "node_id": 585,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Halogeometricum"
+  },
+  "H_G_Halogranum": {
+    "node_id": 586,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Halogranum"
+  },
+  "H_G_Halorubrum": {
+    "node_id": 587,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Halorubrum"
+  },
+  "H_G_Helicobacter": {
+    "node_id": 588,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Helicobacter"
+  },
+  "H_G_Kitasatospora": {
+    "node_id": 589,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Kitasatospora"
+  },
+  "H_G_Klebsiella": {
+    "node_id": 590,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Klebsiella"
+  },
+  "H_G_Lactobacillus": {
+    "node_id": 591,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Lactobacillus"
+  },
+  "H_G_Lactococcus": {
+    "node_id": 592,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Lactococcus"
+  },
+  "H_G_Lelliottia": {
+    "node_id": 593,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Lelliottia"
+  },
+  "H_G_Leptolyngbya": {
+    "node_id": 594,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Leptolyngbya"
+  },
+  "H_G_Leuconostoc": {
+    "node_id": 595,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Leuconostoc"
+  },
+  "H_G_Liberibacter": {
+    "node_id": 596,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Liberibacter"
+  },
+  "H_G_Listeria": {
+    "node_id": 597,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Listeria"
+  },
+  "H_G_Mannheimia": {
+    "node_id": 598,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Mannheimia"
+  },
+  "H_G_Marinomonas": {
+    "node_id": 599,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Marinomonas"
+  },
+  "H_G_Mesorhizobium": {
+    "node_id": 600,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Mesorhizobium"
+  },
+  "H_G_Methanothermobacter": {
+    "node_id": 601,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Methanothermobacter"
+  },
+  "H_G_Microbacterium": {
+    "node_id": 602,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Microbacterium"
+  },
+  "H_G_Morganella": {
+    "node_id": 603,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Morganella"
+  },
+  "H_G_Mycobacterium": {
+    "node_id": 604,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Mycobacterium"
+  },
+  "H_G_Mycobacteroides": {
+    "node_id": 605,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Mycobacteroides"
+  },
+  "H_G_Mycolicibacterium": {
+    "node_id": 606,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Mycolicibacterium"
+  },
+  "H_G_Mycoplasma": {
+    "node_id": 607,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Mycoplasma"
+  },
+  "H_G_Myxococcus": {
+    "node_id": 608,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Myxococcus"
+  },
+  "H_G_Nitrincola": {
+    "node_id": 609,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Nitrincola"
+  },
+  "H_G_Nocardia": {
+    "node_id": 610,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Nocardia"
+  },
+  "H_G_Nonlabens": {
+    "node_id": 611,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Nonlabens"
+  },
+  "H_G_Oenococcus": {
+    "node_id": 612,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Oenococcus"
+  },
+  "H_G_Paenibacillus": {
+    "node_id": 613,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Paenibacillus"
+  },
+  "H_G_Pantoea": {
+    "node_id": 614,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Pantoea"
+  },
+  "H_G_Paracoccus": {
+    "node_id": 615,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Paracoccus"
+  },
+  "H_G_Pasteurella": {
+    "node_id": 616,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Pasteurella"
+  },
+  "H_G_Pectobacterium": {
+    "node_id": 617,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Pectobacterium"
+  },
+  "H_G_Planktothrix": {
+    "node_id": 618,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Planktothrix"
+  },
+  "H_G_Prochlorococcus": {
+    "node_id": 619,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Prochlorococcus"
+  },
+  "H_G_Providencia": {
+    "node_id": 620,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Providencia"
+  },
+  "H_G_Pseudoalteromonas": {
+    "node_id": 621,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Pseudoalteromonas"
+  },
+  "H_G_Pseudomonas": {
+    "node_id": 622,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Pseudomonas"
+  },
+  "H_G_Psychrobacter": {
+    "node_id": 623,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Psychrobacter"
+  },
+  "H_G_Pyrococcus": {
+    "node_id": 624,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Pyrococcus"
+  },
+  "H_G_Ralstonia": {
+    "node_id": 625,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Ralstonia"
+  },
+  "H_G_Rhizobium": {
+    "node_id": 626,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Rhizobium"
+  },
+  "H_G_Rhodobacter": {
+    "node_id": 627,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Rhodobacter"
+  },
+  "H_G_Rhodococcus": {
+    "node_id": 628,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Rhodococcus"
+  },
+  "H_G_Rhodovulum": {
+    "node_id": 629,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Rhodovulum"
+  },
+  "H_G_Roseobacter": {
+    "node_id": 630,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Roseobacter"
+  },
+  "H_G_Ruegeria": {
+    "node_id": 631,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Ruegeria"
+  },
+  "H_G_Saccharolobus": {
+    "node_id": 632,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Saccharolobus"
+  },
+  "H_G_Salinivibrio": {
+    "node_id": 633,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Salinivibrio"
+  },
+  "H_G_Salisaeta": {
+    "node_id": 634,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Salisaeta"
+  },
+  "H_G_Salmonella": {
+    "node_id": 635,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Salmonella"
+  },
+  "H_G_Serratia": {
+    "node_id": 636,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Serratia"
+  },
+  "H_G_Shewanella": {
+    "node_id": 637,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Shewanella"
+  },
+  "H_G_Shigella": {
+    "node_id": 638,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Shigella"
+  },
+  "H_G_Sinorhizobium": {
+    "node_id": 639,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Sinorhizobium"
+  },
+  "H_G_Sodalis": {
+    "node_id": 640,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Sodalis"
+  },
+  "H_G_Spiroplasma": {
+    "node_id": 641,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Spiroplasma"
+  },
+  "H_G_Staphylococcus": {
+    "node_id": 642,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Staphylococcus"
+  },
+  "H_G_Stenotrophomonas": {
+    "node_id": 643,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Stenotrophomonas"
+  },
+  "H_G_Streptococcus": {
+    "node_id": 644,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Streptococcus"
+  },
+  "H_G_Streptomyces": {
+    "node_id": 645,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Streptomyces"
+  },
+  "H_G_Sulfitobacter": {
+    "node_id": 646,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Sulfitobacter"
+  },
+  "H_G_Sulfolobus": {
+    "node_id": 647,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Sulfolobus"
+  },
+  "H_G_Synechococcus": {
+    "node_id": 648,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Synechococcus"
+  },
+  "H_G_Tetrasphaera": {
+    "node_id": 649,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Tetrasphaera"
+  },
+  "H_G_Thalassotalea": {
+    "node_id": 650,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Thalassotalea"
+  },
+  "H_G_Thermoanaerobacterium": {
+    "node_id": 651,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Thermoanaerobacterium"
+  },
+  "H_G_Thermococcus": {
+    "node_id": 652,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Thermococcus"
+  },
+  "H_G_Thermus": {
+    "node_id": 653,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Thermus"
+  },
+  "H_G_Trichormus": {
+    "node_id": 654,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Trichormus"
+  },
+  "H_G_Tsukamurella": {
+    "node_id": 655,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Tsukamurella"
+  },
+  "H_G_Vibrio": {
+    "node_id": 656,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Vibrio"
+  },
+  "H_G_Weissella": {
+    "node_id": 657,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Weissella"
+  },
+  "H_G_Xanthomonas": {
+    "node_id": 658,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Xanthomonas"
+  },
+  "H_G_Xylella": {
+    "node_id": 659,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Xylella"
+  },
+  "H_G_Yersinia": {
+    "node_id": 660,
+    "entity": "Host",
+    "level": "genus",
+    "value": "Yersinia"
+  },
+  "N_K_Archaea": {
+    "node_id": 661,
+    "entity": "Non-host",
+    "level": "kingdom",
+    "value": "Archaea"
+  },
+  "N_K_Bacteria": {
+    "node_id": 662,
+    "entity": "Non-host",
+    "level": "kingdom",
+    "value": "Bacteria"
+  },
+  "N_K_Eukaryota": {
+    "node_id": 663,
+    "entity": "Non-host",
+    "level": "kingdom",
+    "value": "Eukaryota"
+  },
+  "N_P_Actinobacteria": {
+    "node_id": 664,
+    "entity": "Non-host",
+    "level": "phylum",
+    "value": "Actinobacteria"
+  },
+  "N_P_Arthropoda": {
+    "node_id": 665,
+    "entity": "Non-host",
+    "level": "phylum",
+    "value": "Arthropoda"
+  },
+  "N_P_Crenarchaeota": {
+    "node_id": 666,
+    "entity": "Non-host",
+    "level": "phylum",
+    "value": "Crenarchaeota"
+  },
+  "N_P_Euryarchaeota": {
+    "node_id": 667,
+    "entity": "Non-host",
+    "level": "phylum",
+    "value": "Euryarchaeota"
+  },
+  "N_P_Firmicutes": {
+    "node_id": 668,
+    "entity": "Non-host",
+    "level": "phylum",
+    "value": "Firmicutes"
+  },
+  "N_P_Nanoarchaeota": {
+    "node_id": 669,
+    "entity": "Non-host",
+    "level": "phylum",
+    "value": "Nanoarchaeota"
+  },
+  "N_P_Proteobacteria": {
+    "node_id": 670,
+    "entity": "Non-host",
+    "level": "phylum",
+    "value": "Proteobacteria"
+  },
+  "N_P_Spirochaetes": {
+    "node_id": 671,
+    "entity": "Non-host",
+    "level": "phylum",
+    "value": "Spirochaetes"
+  },
+  "N_P_Thaumarchaeota": {
+    "node_id": 672,
+    "entity": "Non-host",
+    "level": "phylum",
+    "value": "Thaumarchaeota"
+  },
+  "N_C_Actinobacteria": {
+    "node_id": 673,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Actinobacteria"
+  },
+  "N_C_Alphaproteobacteria": {
+    "node_id": 674,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Alphaproteobacteria"
+  },
+  "N_C_Archaeoglobi": {
+    "node_id": 675,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Archaeoglobi"
+  },
+  "N_C_Bacilli": {
+    "node_id": 676,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Bacilli"
+  },
+  "N_C_Betaproteobacteria": {
+    "node_id": 677,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Betaproteobacteria"
+  },
+  "N_C_Deltaproteobacteria": {
+    "node_id": 678,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Deltaproteobacteria"
+  },
+  "N_C_Epsilonproteobacteria": {
+    "node_id": 679,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Epsilonproteobacteria"
+  },
+  "N_C_Gammaproteobacteria": {
+    "node_id": 680,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Gammaproteobacteria"
+  },
+  "N_C_Halobacteria": {
+    "node_id": 681,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Halobacteria"
+  },
+  "N_C_Insecta": {
+    "node_id": 682,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Insecta"
+  },
+  "N_C_Methanobacteria": {
+    "node_id": 683,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Methanobacteria"
+  },
+  "N_C_Methanococci": {
+    "node_id": 684,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Methanococci"
+  },
+  "N_C_Methanomicrobia": {
+    "node_id": 685,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Methanomicrobia"
+  },
+  "N_C_Nitrososphaeria": {
+    "node_id": 686,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Nitrososphaeria"
+  },
+  "N_C_Spirochaetia": {
+    "node_id": 687,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Spirochaetia"
+  },
+  "N_C_Thermococci": {
+    "node_id": 688,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Thermococci"
+  },
+  "N_C_Thermoplasmata": {
+    "node_id": 689,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Thermoplasmata"
+  },
+  "N_C_Thermoprotei": {
+    "node_id": 690,
+    "entity": "Non-host",
+    "level": "class",
+    "value": "Thermoprotei"
+  },
+  "N_O_Acidilobales": {
+    "node_id": 691,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Acidilobales"
+  },
+  "N_O_Archaeoglobales": {
+    "node_id": 692,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Archaeoglobales"
+  },
+  "N_O_Bacillales": {
+    "node_id": 693,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Bacillales"
+  },
+  "N_O_Burkholderiales": {
+    "node_id": 694,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Burkholderiales"
+  },
+  "N_O_Campylobacterales": {
+    "node_id": 695,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Campylobacterales"
+  },
+  "N_O_Cenarchaeales": {
+    "node_id": 696,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Cenarchaeales"
+  },
+  "N_O_Corynebacteriales": {
+    "node_id": 697,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Corynebacteriales"
+  },
+  "N_O_Desulfobacterales": {
+    "node_id": 698,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Desulfobacterales"
+  },
+  "N_O_Desulfurococcales": {
+    "node_id": 699,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Desulfurococcales"
+  },
+  "N_O_Enterobacterales": {
+    "node_id": 700,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Enterobacterales"
+  },
+  "N_O_Fervidicoccales": {
+    "node_id": 701,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Fervidicoccales"
+  },
+  "N_O_Halobacteriales": {
+    "node_id": 702,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Halobacteriales"
+  },
+  "N_O_Haloferacales": {
+    "node_id": 703,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Haloferacales"
+  },
+  "N_O_Lactobacillales": {
+    "node_id": 704,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Lactobacillales"
+  },
+  "N_O_Leptospirales": {
+    "node_id": 705,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Leptospirales"
+  },
+  "N_O_Methanobacteriales": {
+    "node_id": 706,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Methanobacteriales"
+  },
+  "N_O_Methanocellales": {
+    "node_id": 707,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Methanocellales"
+  },
+  "N_O_Methanococcales": {
+    "node_id": 708,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Methanococcales"
+  },
+  "N_O_Methanomassiliicoccales": {
+    "node_id": 709,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Methanomassiliicoccales"
+  },
+  "N_O_Methanomicrobiales": {
+    "node_id": 710,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Methanomicrobiales"
+  },
+  "N_O_Methanosarcinales": {
+    "node_id": 711,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Methanosarcinales"
+  },
+  "N_O_Nanoarchaeales": {
+    "node_id": 712,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Nanoarchaeales"
+  },
+  "N_O_Natrialbales": {
+    "node_id": 713,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Natrialbales"
+  },
+  "N_O_Neisseriales": {
+    "node_id": 714,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Neisseriales"
+  },
+  "N_O_Nitrosopumilales": {
+    "node_id": 715,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Nitrosopumilales"
+  },
+  "N_O_Nitrososphaerales": {
+    "node_id": 716,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Nitrososphaerales"
+  },
+  "N_O_Pasteurellales": {
+    "node_id": 717,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Pasteurellales"
+  },
+  "N_O_Phasmatodea": {
+    "node_id": 718,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Phasmatodea"
+  },
+  "N_O_Pseudomonadales": {
+    "node_id": 719,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Pseudomonadales"
+  },
+  "N_O_Rhizobiales": {
+    "node_id": 720,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Rhizobiales"
+  },
+  "N_O_Sphingomonadales": {
+    "node_id": 721,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Sphingomonadales"
+  },
+  "N_O_Sulfolobales": {
+    "node_id": 722,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Sulfolobales"
+  },
+  "N_O_Thermococcales": {
+    "node_id": 723,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Thermococcales"
+  },
+  "N_O_Thermoplasmatales": {
+    "node_id": 724,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Thermoplasmatales"
+  },
+  "N_O_Thermoproteales": {
+    "node_id": 725,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Thermoproteales"
+  },
+  "N_O_Vibrionales": {
+    "node_id": 726,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Vibrionales"
+  },
+  "N_O_Xanthomonadales": {
+    "node_id": 727,
+    "entity": "Non-host",
+    "level": "order",
+    "value": "Xanthomonadales"
+  },
+  "N_F_Alicyclobacillaceae": {
+    "node_id": 728,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Alicyclobacillaceae"
+  },
+  "N_F_Archaeoglobaceae": {
+    "node_id": 729,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Archaeoglobaceae"
+  },
+  "N_F_Bacillidae": {
+    "node_id": 730,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Bacillidae"
+  },
+  "N_F_Bradyrhizobiaceae": {
+    "node_id": 731,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Bradyrhizobiaceae"
+  },
+  "N_F_Caldisphaeraceae": {
+    "node_id": 732,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Caldisphaeraceae"
+  },
+  "N_F_Cenarchaeaceae": {
+    "node_id": 733,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Cenarchaeaceae"
+  },
+  "N_F_Comamonadaceae": {
+    "node_id": 734,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Comamonadaceae"
+  },
+  "N_F_Desulfobacteraceae": {
+    "node_id": 735,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Desulfobacteraceae"
+  },
+  "N_F_Desulfurococcaceae": {
+    "node_id": 736,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Desulfurococcaceae"
+  },
+  "N_F_Enterobacteriaceae": {
+    "node_id": 737,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Enterobacteriaceae"
+  },
+  "N_F_Enterococcaceae": {
+    "node_id": 738,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Enterococcaceae"
+  },
+  "N_F_Ferroplasmaceae": {
+    "node_id": 739,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Ferroplasmaceae"
+  },
+  "N_F_Fervidicoccaceae": {
+    "node_id": 740,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Fervidicoccaceae"
+  },
+  "N_F_Haloarculaceae": {
+    "node_id": 741,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Haloarculaceae"
+  },
+  "N_F_Halobacteriaceae": {
+    "node_id": 742,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Halobacteriaceae"
+  },
+  "N_F_Halococcaceae": {
+    "node_id": 743,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Halococcaceae"
+  },
+  "N_F_Haloferacaceae": {
+    "node_id": 744,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Haloferacaceae"
+  },
+  "N_F_Halorubraceae": {
+    "node_id": 745,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Halorubraceae"
+  },
+  "N_F_Helicobacteraceae": {
+    "node_id": 746,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Helicobacteraceae"
+  },
+  "N_F_Hyphomicrobiaceae": {
+    "node_id": 747,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Hyphomicrobiaceae"
+  },
+  "N_F_Lactobacillaceae": {
+    "node_id": 748,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Lactobacillaceae"
+  },
+  "N_F_Leptospiraceae": {
+    "node_id": 749,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Leptospiraceae"
+  },
+  "N_F_Methanobacteriaceae": {
+    "node_id": 750,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Methanobacteriaceae"
+  },
+  "N_F_Methanocaldococcaceae": {
+    "node_id": 751,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Methanocaldococcaceae"
+  },
+  "N_F_Methanocellaceae": {
+    "node_id": 752,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Methanocellaceae"
+  },
+  "N_F_Methanococcaceae": {
+    "node_id": 753,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Methanococcaceae"
+  },
+  "N_F_Methanomassiliicoccaceae": {
+    "node_id": 754,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Methanomassiliicoccaceae"
+  },
+  "N_F_Methanomicrobiaceae": {
+    "node_id": 755,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Methanomicrobiaceae"
+  },
+  "N_F_Methanoregulaceae": {
+    "node_id": 756,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Methanoregulaceae"
+  },
+  "N_F_Methanosarcinaceae": {
+    "node_id": 757,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Methanosarcinaceae"
+  },
+  "N_F_Methanotrichaceae": {
+    "node_id": 758,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Methanotrichaceae"
+  },
+  "N_F_Moraxellaceae": {
+    "node_id": 759,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Moraxellaceae"
+  },
+  "N_F_Mycobacteriaceae": {
+    "node_id": 760,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Mycobacteriaceae"
+  },
+  "N_F_Nanopusillaceae": {
+    "node_id": 761,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Nanopusillaceae"
+  },
+  "N_F_Natrialbaceae": {
+    "node_id": 762,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Natrialbaceae"
+  },
+  "N_F_Neisseriaceae": {
+    "node_id": 763,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Neisseriaceae"
+  },
+  "N_F_Nitrosopumilaceae": {
+    "node_id": 764,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Nitrosopumilaceae"
+  },
+  "N_F_Nitrososphaeraceae": {
+    "node_id": 765,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Nitrososphaeraceae"
+  },
+  "N_F_Pasteurellaceae": {
+    "node_id": 766,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Pasteurellaceae"
+  },
+  "N_F_Pseudomonadaceae": {
+    "node_id": 767,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Pseudomonadaceae"
+  },
+  "N_F_Sphingomonadaceae": {
+    "node_id": 768,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Sphingomonadaceae"
+  },
+  "N_F_Staphylococcaceae": {
+    "node_id": 769,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Staphylococcaceae"
+  },
+  "N_F_Streptococcaceae": {
+    "node_id": 770,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Streptococcaceae"
+  },
+  "N_F_Sulfolobaceae": {
+    "node_id": 771,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Sulfolobaceae"
+  },
+  "N_F_Thermococcaceae": {
+    "node_id": 772,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Thermococcaceae"
+  },
+  "N_F_Thermofilaceae": {
+    "node_id": 773,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Thermofilaceae"
+  },
+  "N_F_Thermoplasmataceae": {
+    "node_id": 774,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Thermoplasmataceae"
+  },
+  "N_F_Thermoproteaceae": {
+    "node_id": 775,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Thermoproteaceae"
+  },
+  "N_F_Vibrionaceae": {
+    "node_id": 776,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Vibrionaceae"
+  },
+  "N_F_Xanthomonadaceae": {
+    "node_id": 777,
+    "entity": "Non-host",
+    "level": "family",
+    "value": "Xanthomonadaceae"
+  },
+  "N_G_Acidiplasma": {
+    "node_id": 778,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Acidiplasma"
+  },
+  "N_G_Acidovorax": {
+    "node_id": 779,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Acidovorax"
+  },
+  "N_G_Aciduliprofundum": {
+    "node_id": 780,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Aciduliprofundum"
+  },
+  "N_G_Acinetobacter": {
+    "node_id": 781,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Acinetobacter"
+  },
+  "N_G_Aeropyrum": {
+    "node_id": 782,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Aeropyrum"
+  },
+  "N_G_Alicyclobacillus": {
+    "node_id": 783,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Alicyclobacillus"
+  },
+  "N_G_Archaeoglobus": {
+    "node_id": 784,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Archaeoglobus"
+  },
+  "N_G_Bacillus": {
+    "node_id": 785,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Bacillus"
+  },
+  "N_G_Bradyrhizobium": {
+    "node_id": 786,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Bradyrhizobium"
+  },
+  "N_G_Caldisphaera": {
+    "node_id": 787,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Caldisphaera"
+  },
+  "N_G_Candidatus Aramenus": {
+    "node_id": 788,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Candidatus Aramenus"
+  },
+  "N_G_Candidatus Caldiarchaeum": {
+    "node_id": 789,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Candidatus Caldiarchaeum"
+  },
+  "N_G_Candidatus Methanoplasma": {
+    "node_id": 790,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Candidatus Methanoplasma"
+  },
+  "N_G_Candidatus Nanobsidianus": {
+    "node_id": 791,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Candidatus Nanobsidianus"
+  },
+  "N_G_Candidatus Nitrosotenuis": {
+    "node_id": 792,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Candidatus Nitrosotenuis"
+  },
+  "N_G_Cenarchaeum": {
+    "node_id": 793,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Cenarchaeum"
+  },
+  "N_G_Desulfotignum": {
+    "node_id": 794,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Desulfotignum"
+  },
+  "N_G_Desulfurococcus": {
+    "node_id": 795,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Desulfurococcus"
+  },
+  "N_G_Enterococcus": {
+    "node_id": 796,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Enterococcus"
+  },
+  "N_G_Escherichia": {
+    "node_id": 797,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Escherichia"
+  },
+  "N_G_Ferroplasma": {
+    "node_id": 798,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Ferroplasma"
+  },
+  "N_G_Fervidicoccus": {
+    "node_id": 799,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Fervidicoccus"
+  },
+  "N_G_Haladaptatus": {
+    "node_id": 800,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Haladaptatus"
+  },
+  "N_G_Halapricum": {
+    "node_id": 801,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Halapricum"
+  },
+  "N_G_Halarchaeum": {
+    "node_id": 802,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Halarchaeum"
+  },
+  "N_G_Haloarcula": {
+    "node_id": 803,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Haloarcula"
+  },
+  "N_G_Halobiforma": {
+    "node_id": 804,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Halobiforma"
+  },
+  "N_G_Halococcus": {
+    "node_id": 805,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Halococcus"
+  },
+  "N_G_Haloferax": {
+    "node_id": 806,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Haloferax"
+  },
+  "N_G_Halogeometricum": {
+    "node_id": 807,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Halogeometricum"
+  },
+  "N_G_Halonotius": {
+    "node_id": 808,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Halonotius"
+  },
+  "N_G_Haloquadratum": {
+    "node_id": 809,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Haloquadratum"
+  },
+  "N_G_Halorubrum": {
+    "node_id": 810,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Halorubrum"
+  },
+  "N_G_Halostagnicola": {
+    "node_id": 811,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Halostagnicola"
+  },
+  "N_G_Haloterrigena": {
+    "node_id": 812,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Haloterrigena"
+  },
+  "N_G_Halovivax": {
+    "node_id": 813,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Halovivax"
+  },
+  "N_G_Helicobacter": {
+    "node_id": 814,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Helicobacter"
+  },
+  "N_G_Lactobacillus": {
+    "node_id": 815,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Lactobacillus"
+  },
+  "N_G_Leptospira": {
+    "node_id": 816,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Leptospira"
+  },
+  "N_G_Mannheimia": {
+    "node_id": 817,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Mannheimia"
+  },
+  "N_G_Methanobacterium": {
+    "node_id": 818,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanobacterium"
+  },
+  "N_G_Methanobrevibacter": {
+    "node_id": 819,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanobrevibacter"
+  },
+  "N_G_Methanocaldococcus": {
+    "node_id": 820,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanocaldococcus"
+  },
+  "N_G_Methanocella": {
+    "node_id": 821,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanocella"
+  },
+  "N_G_Methanococcoides": {
+    "node_id": 822,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanococcoides"
+  },
+  "N_G_Methanococcus": {
+    "node_id": 823,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanococcus"
+  },
+  "N_G_Methanohalobium": {
+    "node_id": 824,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanohalobium"
+  },
+  "N_G_Methanolacinia": {
+    "node_id": 825,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanolacinia"
+  },
+  "N_G_Methanolinea": {
+    "node_id": 826,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanolinea"
+  },
+  "N_G_Methanomethylovorans": {
+    "node_id": 827,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanomethylovorans"
+  },
+  "N_G_Methanoregula": {
+    "node_id": 828,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanoregula"
+  },
+  "N_G_Methanosarcina": {
+    "node_id": 829,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanosarcina"
+  },
+  "N_G_Methanosphaera": {
+    "node_id": 830,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanosphaera"
+  },
+  "N_G_Methanothermococcus": {
+    "node_id": 831,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanothermococcus"
+  },
+  "N_G_Methanothrix": {
+    "node_id": 832,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanothrix"
+  },
+  "N_G_Methanotorris": {
+    "node_id": 833,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Methanotorris"
+  },
+  "N_G_Mycobacterium": {
+    "node_id": 834,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Mycobacterium"
+  },
+  "N_G_Natrialba": {
+    "node_id": 835,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Natrialba"
+  },
+  "N_G_Natrinema": {
+    "node_id": 836,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Natrinema"
+  },
+  "N_G_Natronobacterium": {
+    "node_id": 837,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Natronobacterium"
+  },
+  "N_G_Natronococcus": {
+    "node_id": 838,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Natronococcus"
+  },
+  "N_G_Natronolimnobius": {
+    "node_id": 839,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Natronolimnobius"
+  },
+  "N_G_Neisseria": {
+    "node_id": 840,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Neisseria"
+  },
+  "N_G_Nitrosarchaeum": {
+    "node_id": 841,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Nitrosarchaeum"
+  },
+  "N_G_Nitrosopumilus": {
+    "node_id": 842,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Nitrosopumilus"
+  },
+  "N_G_Nitrososphaera": {
+    "node_id": 843,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Nitrososphaera"
+  },
+  "N_G_Palaeococcus": {
+    "node_id": 844,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Palaeococcus"
+  },
+  "N_G_Pelagibacterium": {
+    "node_id": 845,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Pelagibacterium"
+  },
+  "N_G_Pseudomonas": {
+    "node_id": 846,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Pseudomonas"
+  },
+  "N_G_Pyrobaculum": {
+    "node_id": 847,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Pyrobaculum"
+  },
+  "N_G_Pyrococcus": {
+    "node_id": 848,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Pyrococcus"
+  },
+  "N_G_Salinarchaeum": {
+    "node_id": 849,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Salinarchaeum"
+  },
+  "N_G_Salinicoccus": {
+    "node_id": 850,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Salinicoccus"
+  },
+  "N_G_Salmonella": {
+    "node_id": 851,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Salmonella"
+  },
+  "N_G_Sphingomonas": {
+    "node_id": 852,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Sphingomonas"
+  },
+  "N_G_Staphylococcus": {
+    "node_id": 853,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Staphylococcus"
+  },
+  "N_G_Streptococcus": {
+    "node_id": 854,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Streptococcus"
+  },
+  "N_G_Sulfolobus": {
+    "node_id": 855,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Sulfolobus"
+  },
+  "N_G_Thermococcus": {
+    "node_id": 856,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Thermococcus"
+  },
+  "N_G_Thermofilum": {
+    "node_id": 857,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Thermofilum"
+  },
+  "N_G_Thermoplasma": {
+    "node_id": 858,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Thermoplasma"
+  },
+  "N_G_Thermoproteus": {
+    "node_id": 859,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Thermoproteus"
+  },
+  "N_G_Vibrio": {
+    "node_id": 860,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Vibrio"
+  },
+  "N_G_Vulcanisaeta": {
+    "node_id": 861,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Vulcanisaeta"
+  },
+  "N_G_Xanthomonas": {
+    "node_id": 862,
+    "entity": "Non-host",
+    "level": "genus",
+    "value": "Xanthomonas"
+  }
+}

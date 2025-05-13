@@ -1,0 +1,564 @@
+2025-04-14 15:11:39,343 - INFO - 开始分类学名称分析...
+2025-04-14 15:11:39,348 - INFO - 正在加载Excel数据...
+2025-04-14 15:11:39,840 - INFO - Excel文件 data\Training set.xlsx 包含 6 个工作表: ['Training set on kingdom level', 'Training set on phylum level', 'Training set on class level', 'Training set on order level', 'Training set on family level', 'Training set on genus level']
+2025-04-14 15:11:40,124 - INFO - 第一个工作表 'Training set on kingdom level' 形状: (1427, 21)
+2025-04-14 15:11:40,406 - INFO - 工作表 'Training set on kingdom level' 形状: (1427, 21)
+2025-04-14 15:11:40,690 - INFO - 工作表 'Training set on phylum level' 形状: (1427, 21)
+2025-04-14 15:11:40,974 - INFO - 工作表 'Training set on class level' 形状: (1427, 21)
+2025-04-14 15:11:41,268 - INFO - 工作表 'Training set on order level' 形状: (1427, 21)
+2025-04-14 15:11:41,538 - INFO - 工作表 'Training set on family level' 形状: (1427, 21)
+2025-04-14 15:11:41,831 - INFO - 工作表 'Training set on genus level' 形状: (1427, 21)
+2025-04-14 15:11:41,832 - INFO - 正在分析分类学列...
+2025-04-14 15:11:41,832 - INFO - 列名: ['Phage', 'Taxonomy', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Host', 'Taxonomy.1', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Non-host', 'Taxonomy.2', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19', 'Unnamed: 20']
+2025-04-14 15:11:41,832 - INFO - 第一行: ['accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus']
+2025-04-14 15:11:41,833 - INFO - 检测到第一行包含分类学级别信息
+2025-04-14 15:11:41,833 - INFO - 识别的分类学列: {'Phage': {'accession': 0, 'kingdom': 1, 'phylum': 2, 'class': 3, 'order': 4, 'family': 5, 'genus': 6}, 'Host': {'accession': 7, 'kingdom': 8, 'phylum': 9, 'class': 10, 'order': 11, 'family': 12, 'genus': 13}, 'Non-host': {'accession': 14, 'kingdom': 15, 'phylum': 16, 'class': 17, 'order': 18, 'family': 19, 'genus': 20}}
+2025-04-14 15:11:41,833 - INFO - 正在提取分类学值...
+2025-04-14 15:11:42,331 - INFO - 
+Phage 分类学级别:
+2025-04-14 15:11:42,332 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:42,332 - INFO -     示例: ['Bacteria', 'Viruses']
+2025-04-14 15:11:42,332 - INFO -   - phylum: 9 个唯一值
+2025-04-14 15:11:42,332 - INFO -     示例: ['Dividoviricota', 'Duplornaviricota', 'Hofneiviricota', 'Lenarviricota', 'Phixviricota']
+2025-04-14 15:11:42,333 - INFO -   - class: 9 个唯一值
+2025-04-14 15:11:42,333 - INFO -     示例: ['Allassoviricetes', 'Caudoviricetes', 'Faserviricetes', 'Gammaproteobacteria', 'Huolimaviricetes']
+2025-04-14 15:11:42,333 - INFO -   - order: 11 个唯一值
+2025-04-14 15:11:42,334 - INFO -     示例: ['Belfryvirales', 'Caudovirales', 'Enterobacterales', 'Halopanivirales', 'Haloruvirales']
+2025-04-14 15:11:42,334 - INFO -   - family: 24 个唯一值
+2025-04-14 15:11:42,334 - INFO -     示例: ['Ackermannviridae', 'Ampullaviridae', 'Autographiviridae', 'Bicaudaviridae', 'Chaseviridae']
+2025-04-14 15:11:42,334 - INFO -   - genus: 335 个唯一值
+2025-04-14 15:11:42,334 - INFO -     示例: ['Abidjanvirus', 'Abouovirus', 'Acadianvirus', 'Acionnavirus', 'Aerosvirus']
+2025-04-14 15:11:42,335 - INFO - 
+Host 分类学级别:
+2025-04-14 15:11:42,335 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:42,335 - INFO -     示例: ['Archaea', 'Bacteria']
+2025-04-14 15:11:42,335 - INFO -   - phylum: 10 个唯一值
+2025-04-14 15:11:42,335 - INFO -     示例: ['Actinobacteria', 'Bacteroidetes', 'Chlamydiae', 'Crenarchaeota', 'Cyanobacteria']
+2025-04-14 15:11:42,335 - INFO -   - class: 19 个唯一值
+2025-04-14 15:11:42,336 - INFO -     示例: ['Actinobacteria', 'Alphaproteobacteria', 'Bacilli', 'Bacteroidia', 'Betaproteobacteria']
+2025-04-14 15:11:42,336 - INFO -   - order: 42 个唯一值
+2025-04-14 15:11:42,336 - INFO -     示例: ['Actinomycetales', 'Aeromonadales', 'Alteromonadales', 'Bacillales', 'Bacteroidales']
+2025-04-14 15:11:42,336 - INFO -   - family: 74 个唯一值
+2025-04-14 15:11:42,336 - INFO -     示例: ['Actinomycetaceae', 'Aeromonadaceae', 'Alcaligenaceae', 'Alteromonadaceae', 'Bacillaceae']
+2025-04-14 15:11:42,336 - INFO -   - genus: 124 个唯一值
+2025-04-14 15:11:42,337 - INFO -     示例: ['Achromobacter', 'Acidianus', 'Acinetobacter', 'Actinomyces', 'Aeromonas']
+2025-04-14 15:11:42,337 - INFO - 
+Non-host 分类学级别:
+2025-04-14 15:11:42,337 - INFO -   - kingdom: 3 个唯一值
+2025-04-14 15:11:42,338 - INFO -     示例: ['Archaea', 'Bacteria', 'Eukaryota']
+2025-04-14 15:11:42,338 - INFO -   - phylum: 9 个唯一值
+2025-04-14 15:11:42,338 - INFO -     示例: ['Actinobacteria', 'Arthropoda', 'Crenarchaeota', 'Euryarchaeota', 'Firmicutes']
+2025-04-14 15:11:42,338 - INFO -   - class: 18 个唯一值
+2025-04-14 15:11:42,338 - INFO -     示例: ['Actinobacteria', 'Alphaproteobacteria', 'Archaeoglobi', 'Bacilli', 'Betaproteobacteria']
+2025-04-14 15:11:42,339 - INFO -   - order: 37 个唯一值
+2025-04-14 15:11:42,339 - INFO -     示例: ['Acidilobales', 'Archaeoglobales', 'Bacillales', 'Burkholderiales', 'Campylobacterales']
+2025-04-14 15:11:42,339 - INFO -   - family: 50 个唯一值
+2025-04-14 15:11:42,339 - INFO -     示例: ['Alicyclobacillaceae', 'Archaeoglobaceae', 'Bacillidae', 'Bradyrhizobiaceae', 'Caldisphaeraceae']
+2025-04-14 15:11:42,340 - INFO -   - genus: 85 个唯一值
+2025-04-14 15:11:42,340 - INFO -     示例: ['Acidiplasma', 'Acidovorax', 'Aciduliprofundum', 'Acinetobacter', 'Aeropyrum']
+2025-04-14 15:11:42,340 - INFO - 正在分析交叉引用...
+2025-04-14 15:11:42,899 - INFO - 
+分类学交叉引用分析:
+2025-04-14 15:11:42,900 - INFO -   - kingdom 级别 (Phage-Host):
+2025-04-14 15:11:42,900 - INFO -     * Viruses - Bacteria: 1377 次
+2025-04-14 15:11:42,901 - INFO -     * Viruses - Archaea: 48 次
+2025-04-14 15:11:42,901 - INFO -     * Bacteria - Bacteria: 1 次
+2025-04-14 15:11:42,901 - INFO -   - kingdom 级别 (Phage-Non-host):
+2025-04-14 15:11:42,901 - INFO -     * Viruses - Archaea: 1358 次
+2025-04-14 15:11:42,902 - INFO -     * Viruses - Bacteria: 48 次
+2025-04-14 15:11:42,903 - INFO -     * Viruses - Eukaryota: 19 次
+2025-04-14 15:11:42,903 - INFO -     * Bacteria - Archaea: 1 次
+2025-04-14 15:11:42,903 - INFO -   - kingdom 级别 (Host-Phage):
+2025-04-14 15:11:42,903 - INFO -     * Bacteria - Viruses: 1377 次
+2025-04-14 15:11:42,903 - INFO -     * Archaea - Viruses: 48 次
+2025-04-14 15:11:42,903 - INFO -     * Bacteria - Bacteria: 1 次
+2025-04-14 15:11:42,903 - INFO -   - kingdom 级别 (Host-Non-host):
+2025-04-14 15:11:42,903 - INFO -     * Bacteria - Archaea: 1359 次
+2025-04-14 15:11:42,903 - INFO -     * Archaea - Bacteria: 48 次
+2025-04-14 15:11:42,903 - INFO -     * Bacteria - Eukaryota: 19 次
+2025-04-14 15:11:42,903 - INFO -   - kingdom 级别 (Non-host-Phage):
+2025-04-14 15:11:42,904 - INFO -     * Archaea - Viruses: 1358 次
+2025-04-14 15:11:42,904 - INFO -     * Bacteria - Viruses: 48 次
+2025-04-14 15:11:42,904 - INFO -     * Eukaryota - Viruses: 19 次
+2025-04-14 15:11:42,904 - INFO -     * Archaea - Bacteria: 1 次
+2025-04-14 15:11:42,904 - INFO -   - kingdom 级别 (Non-host-Host):
+2025-04-14 15:11:42,904 - INFO -     * Archaea - Bacteria: 1359 次
+2025-04-14 15:11:42,904 - INFO -     * Bacteria - Archaea: 48 次
+2025-04-14 15:11:42,904 - INFO -     * Eukaryota - Bacteria: 19 次
+2025-04-14 15:11:42,904 - INFO -   - phylum 级别 (Phage-Host):
+2025-04-14 15:11:42,905 - INFO -     * Uroviricota - Proteobacteria: 561 次
+2025-04-14 15:11:42,905 - INFO -     * Uroviricota - Firmicutes: 315 次
+2025-04-14 15:11:42,905 - INFO -     * Uroviricota - Actinobacteria: 279 次
+2025-04-14 15:11:42,905 - INFO -     * Uroviricota - Cyanobacteria: 74 次
+2025-04-14 15:11:42,905 - INFO -     * Phixviricota - Proteobacteria: 42 次
+2025-04-14 15:11:42,905 - INFO -   - phylum 级别 (Phage-Non-host):
+2025-04-14 15:11:42,905 - INFO -     * Uroviricota - Euryarchaeota: 933 次
+2025-04-14 15:11:42,905 - INFO -     * Uroviricota - Crenarchaeota: 238 次
+2025-04-14 15:11:42,906 - INFO -     * Uroviricota - Thaumarchaeota: 73 次
+2025-04-14 15:11:42,906 - INFO -     * Phixviricota - Euryarchaeota: 37 次
+2025-04-14 15:11:42,906 - INFO -     * Hofneiviricota - Euryarchaeota: 20 次
+2025-04-14 15:11:42,906 - INFO -   - phylum 级别 (Host-Phage):
+2025-04-14 15:11:42,906 - INFO -     * Proteobacteria - Uroviricota: 561 次
+2025-04-14 15:11:42,906 - INFO -     * Firmicutes - Uroviricota: 315 次
+2025-04-14 15:11:42,906 - INFO -     * Actinobacteria - Uroviricota: 279 次
+2025-04-14 15:11:42,906 - INFO -     * Cyanobacteria - Uroviricota: 74 次
+2025-04-14 15:11:42,906 - INFO -     * Proteobacteria - Phixviricota: 42 次
+2025-04-14 15:11:42,906 - INFO -   - phylum 级别 (Host-Non-host):
+2025-04-14 15:11:42,906 - INFO -     * Proteobacteria - Euryarchaeota: 487 次
+2025-04-14 15:11:42,908 - INFO -     * Firmicutes - Euryarchaeota: 230 次
+2025-04-14 15:11:42,908 - INFO -     * Actinobacteria - Euryarchaeota: 208 次
+2025-04-14 15:11:42,908 - INFO -     * Proteobacteria - Crenarchaeota: 119 次
+2025-04-14 15:11:42,908 - INFO -     * Firmicutes - Crenarchaeota: 64 次
+2025-04-14 15:11:42,908 - INFO -   - phylum 级别 (Non-host-Phage):
+2025-04-14 15:11:42,909 - INFO -     * Euryarchaeota - Uroviricota: 933 次
+2025-04-14 15:11:42,909 - INFO -     * Crenarchaeota - Uroviricota: 238 次
+2025-04-14 15:11:42,909 - INFO -     * Thaumarchaeota - Uroviricota: 73 次
+2025-04-14 15:11:42,909 - INFO -     * Euryarchaeota - Phixviricota: 37 次
+2025-04-14 15:11:42,909 - INFO -     * Euryarchaeota - Hofneiviricota: 20 次
+2025-04-14 15:11:42,909 - INFO -   - phylum 级别 (Non-host-Host):
+2025-04-14 15:11:42,909 - INFO -     * Euryarchaeota - Proteobacteria: 487 次
+2025-04-14 15:11:42,909 - INFO -     * Euryarchaeota - Firmicutes: 230 次
+2025-04-14 15:11:42,910 - INFO -     * Euryarchaeota - Actinobacteria: 208 次
+2025-04-14 15:11:42,910 - INFO -     * Crenarchaeota - Proteobacteria: 119 次
+2025-04-14 15:11:42,910 - INFO -     * Crenarchaeota - Firmicutes: 64 次
+2025-04-14 15:11:42,910 - INFO -   - class 级别 (Phage-Host):
+2025-04-14 15:11:42,910 - INFO -     * Caudoviricetes - Gammaproteobacteria: 470 次
+2025-04-14 15:11:42,910 - INFO -     * Caudoviricetes - Bacilli: 294 次
+2025-04-14 15:11:42,910 - INFO -     * Caudoviricetes - Actinobacteria: 279 次
+2025-04-14 15:11:42,911 - INFO -     * Caudoviricetes - Alphaproteobacteria: 49 次
+2025-04-14 15:11:42,911 - INFO -     * Malgrandaviricetes - Gammaproteobacteria: 41 次
+2025-04-14 15:11:42,911 - INFO -   - class 级别 (Phage-Non-host):
+2025-04-14 15:11:42,911 - INFO -     * Caudoviricetes - Halobacteria: 407 次
+2025-04-14 15:11:42,911 - INFO -     * Caudoviricetes - Thermoprotei: 238 次
+2025-04-14 15:11:42,911 - INFO -     * Caudoviricetes - Methanobacteria: 192 次
+2025-04-14 15:11:42,911 - INFO -     * Caudoviricetes - Methanococci: 106 次
+2025-04-14 15:11:42,911 - INFO -     * Caudoviricetes - Methanomicrobia: 96 次
+2025-04-14 15:11:42,912 - INFO -   - class 级别 (Host-Phage):
+2025-04-14 15:11:42,912 - INFO -     * Gammaproteobacteria - Caudoviricetes: 470 次
+2025-04-14 15:11:42,912 - INFO -     * Bacilli - Caudoviricetes: 294 次
+2025-04-14 15:11:42,912 - INFO -     * Actinobacteria - Caudoviricetes: 279 次
+2025-04-14 15:11:42,912 - INFO -     * Alphaproteobacteria - Caudoviricetes: 49 次
+2025-04-14 15:11:42,912 - INFO -     * Gammaproteobacteria - Malgrandaviricetes: 41 次
+2025-04-14 15:11:42,912 - INFO -   - class 级别 (Host-Non-host):
+2025-04-14 15:11:42,913 - INFO -     * Gammaproteobacteria - Halobacteria: 169 次
+2025-04-14 15:11:42,913 - INFO -     * Gammaproteobacteria - Thermoprotei: 100 次
+2025-04-14 15:11:42,913 - INFO -     * Actinobacteria - Halobacteria: 92 次
+2025-04-14 15:11:42,913 - INFO -     * Bacilli - Halobacteria: 91 次
+2025-04-14 15:11:42,913 - INFO -     * Gammaproteobacteria - Methanobacteria: 81 次
+2025-04-14 15:11:42,913 - INFO -   - class 级别 (Non-host-Phage):
+2025-04-14 15:11:42,913 - INFO -     * Halobacteria - Caudoviricetes: 407 次
+2025-04-14 15:11:42,913 - INFO -     * Thermoprotei - Caudoviricetes: 238 次
+2025-04-14 15:11:42,913 - INFO -     * Methanobacteria - Caudoviricetes: 192 次
+2025-04-14 15:11:42,914 - INFO -     * Methanococci - Caudoviricetes: 106 次
+2025-04-14 15:11:42,914 - INFO -     * Methanomicrobia - Caudoviricetes: 96 次
+2025-04-14 15:11:42,914 - INFO -   - class 级别 (Non-host-Host):
+2025-04-14 15:11:42,914 - INFO -     * Halobacteria - Gammaproteobacteria: 169 次
+2025-04-14 15:11:42,914 - INFO -     * Thermoprotei - Gammaproteobacteria: 100 次
+2025-04-14 15:11:42,914 - INFO -     * Halobacteria - Actinobacteria: 92 次
+2025-04-14 15:11:42,915 - INFO -     * Halobacteria - Bacilli: 91 次
+2025-04-14 15:11:42,915 - INFO -     * Methanobacteria - Gammaproteobacteria: 81 次
+2025-04-14 15:11:42,915 - INFO -   - order 级别 (Phage-Host):
+2025-04-14 15:11:42,915 - INFO -     * Caudovirales - Enterobacterales: 259 次
+2025-04-14 15:11:42,915 - INFO -     * Caudovirales - Corynebacteriales: 236 次
+2025-04-14 15:11:42,915 - INFO -     * Caudovirales - Bacillales: 156 次
+2025-04-14 15:11:42,915 - INFO -     * Caudovirales - Lactobacillales: 138 次
+2025-04-14 15:11:42,915 - INFO -     * Caudovirales - Pseudomonadales: 107 次
+2025-04-14 15:11:42,916 - INFO -   - order 级别 (Phage-Non-host):
+2025-04-14 15:11:42,916 - INFO -     * Caudovirales - Methanobacteriales: 192 次
+2025-04-14 15:11:42,916 - INFO -     * Caudovirales - Haloferacales: 163 次
+2025-04-14 15:11:42,916 - INFO -     * Caudovirales - Natrialbales: 145 次
+2025-04-14 15:11:42,916 - INFO -     * Caudovirales - Methanococcales: 106 次
+2025-04-14 15:11:42,917 - INFO -     * Caudovirales - Sulfolobales: 104 次
+2025-04-14 15:11:42,917 - INFO -   - order 级别 (Host-Phage):
+2025-04-14 15:11:42,917 - INFO -     * Enterobacterales - Caudovirales: 259 次
+2025-04-14 15:11:42,917 - INFO -     * Corynebacteriales - Caudovirales: 236 次
+2025-04-14 15:11:42,917 - INFO -     * Bacillales - Caudovirales: 156 次
+2025-04-14 15:11:42,918 - INFO -     * Lactobacillales - Caudovirales: 138 次
+2025-04-14 15:11:42,918 - INFO -     * Pseudomonadales - Caudovirales: 107 次
+2025-04-14 15:11:42,918 - INFO -   - order 级别 (Host-Non-host):
+2025-04-14 15:11:42,918 - INFO -     * Enterobacterales - Methanobacteriales: 50 次
+2025-04-14 15:11:42,918 - INFO -     * Enterobacterales - Natrialbales: 40 次
+2025-04-14 15:11:42,919 - INFO -     * Enterobacterales - Haloferacales: 35 次
+2025-04-14 15:11:42,919 - INFO -     * Corynebacteriales - Methanobacteriales: 35 次
+2025-04-14 15:11:42,919 - INFO -     * Enterobacterales - Methanococcales: 29 次
+2025-04-14 15:11:42,919 - INFO -   - order 级别 (Non-host-Phage):
+2025-04-14 15:11:42,919 - INFO -     * Methanobacteriales - Caudovirales: 192 次
+2025-04-14 15:11:42,919 - INFO -     * Haloferacales - Caudovirales: 163 次
+2025-04-14 15:11:42,919 - INFO -     * Natrialbales - Caudovirales: 145 次
+2025-04-14 15:11:42,920 - INFO -     * Methanococcales - Caudovirales: 106 次
+2025-04-14 15:11:42,920 - INFO -     * Sulfolobales - Caudovirales: 104 次
+2025-04-14 15:11:42,920 - INFO -   - order 级别 (Non-host-Host):
+2025-04-14 15:11:42,920 - INFO -     * Methanobacteriales - Enterobacterales: 50 次
+2025-04-14 15:11:42,920 - INFO -     * Natrialbales - Enterobacterales: 40 次
+2025-04-14 15:11:42,920 - INFO -     * Haloferacales - Enterobacterales: 35 次
+2025-04-14 15:11:42,920 - INFO -     * Methanobacteriales - Corynebacteriales: 35 次
+2025-04-14 15:11:42,920 - INFO -     * Methanococcales - Enterobacterales: 29 次
+2025-04-14 15:11:42,921 - INFO -   - family 级别 (Phage-Host):
+2025-04-14 15:11:42,921 - INFO -     * Siphoviridae - Mycobacteriaceae: 208 次
+2025-04-14 15:11:42,921 - INFO -     * Siphoviridae - Streptococcaceae: 75 次
+2025-04-14 15:11:42,921 - INFO -     * Myoviridae - Enterobacteriaceae: 73 次
+2025-04-14 15:11:42,921 - INFO -     * Siphoviridae - Enterobacteriaceae: 56 次
+2025-04-14 15:11:42,921 - INFO -     * Podoviridae - Enterobacteriaceae: 46 次
+2025-04-14 15:11:42,921 - INFO -   - family 级别 (Phage-Non-host):
+2025-04-14 15:11:42,922 - INFO -     * Siphoviridae - Methanobacteriaceae: 90 次
+2025-04-14 15:11:42,922 - INFO -     * Siphoviridae - Natrialbaceae: 76 次
+2025-04-14 15:11:42,922 - INFO -     * Siphoviridae - Sulfolobaceae: 51 次
+2025-04-14 15:11:42,922 - INFO -     * Siphoviridae - Haloferacaceae: 49 次
+2025-04-14 15:11:42,922 - INFO -     * Myoviridae - Methanobacteriaceae: 43 次
+2025-04-14 15:11:42,922 - INFO -   - family 级别 (Host-Phage):
+2025-04-14 15:11:42,923 - INFO -     * Mycobacteriaceae - Siphoviridae: 208 次
+2025-04-14 15:11:42,923 - INFO -     * Streptococcaceae - Siphoviridae: 75 次
+2025-04-14 15:11:42,923 - INFO -     * Enterobacteriaceae - Myoviridae: 73 次
+2025-04-14 15:11:42,923 - INFO -     * Enterobacteriaceae - Siphoviridae: 56 次
+2025-04-14 15:11:42,923 - INFO -     * Enterobacteriaceae - Podoviridae: 46 次
+2025-04-14 15:11:42,923 - INFO -   - family 级别 (Host-Non-host):
+2025-04-14 15:11:42,923 - INFO -     * Enterobacteriaceae - Methanobacteriaceae: 44 次
+2025-04-14 15:11:42,923 - INFO -     * Enterobacteriaceae - Natrialbaceae: 37 次
+2025-04-14 15:11:42,924 - INFO -     * Mycobacteriaceae - Methanobacteriaceae: 30 次
+2025-04-14 15:11:42,924 - INFO -     * Mycobacteriaceae - Natrialbaceae: 28 次
+2025-04-14 15:11:42,924 - INFO -     * Enterobacteriaceae - Thermoproteaceae: 18 次
+2025-04-14 15:11:42,924 - INFO -   - family 级别 (Non-host-Phage):
+2025-04-14 15:11:42,925 - INFO -     * Methanobacteriaceae - Siphoviridae: 90 次
+2025-04-14 15:11:42,925 - INFO -     * Natrialbaceae - Siphoviridae: 76 次
+2025-04-14 15:11:42,925 - INFO -     * Sulfolobaceae - Siphoviridae: 51 次
+2025-04-14 15:11:42,925 - INFO -     * Haloferacaceae - Siphoviridae: 49 次
+2025-04-14 15:11:42,925 - INFO -     * Methanobacteriaceae - Myoviridae: 43 次
+2025-04-14 15:11:42,925 - INFO -   - family 级别 (Non-host-Host):
+2025-04-14 15:11:42,926 - INFO -     * Methanobacteriaceae - Enterobacteriaceae: 44 次
+2025-04-14 15:11:42,926 - INFO -     * Natrialbaceae - Enterobacteriaceae: 37 次
+2025-04-14 15:11:42,926 - INFO -     * Methanobacteriaceae - Mycobacteriaceae: 30 次
+2025-04-14 15:11:42,926 - INFO -     * Natrialbaceae - Mycobacteriaceae: 28 次
+2025-04-14 15:11:42,926 - INFO -     * Thermoproteaceae - Enterobacteriaceae: 18 次
+2025-04-14 15:11:42,926 - INFO -   - genus 级别 (Phage-Host):
+2025-04-14 15:11:42,926 - INFO -     * Fromanvirus - Mycolicibacterium: 72 次
+2025-04-14 15:11:42,926 - INFO -     * Sinsheimervirus - Escherichia: 34 次
+2025-04-14 15:11:42,926 - INFO -     * Skunavirus - Lactococcus: 29 次
+2025-04-14 15:11:42,926 - INFO -     * Cheoctovirus - Mycolicibacterium: 28 次
+2025-04-14 15:11:42,926 - INFO -     * Pahexavirus - Cutibacterium: 24 次
+2025-04-14 15:11:42,926 - INFO -   - genus 级别 (Phage-Non-host):
+2025-04-14 15:11:42,927 - INFO -     * Fromanvirus - Methanobrevibacter: 6 次
+2025-04-14 15:11:42,927 - INFO -     * Sinsheimervirus - Methanobrevibacter: 5 次
+2025-04-14 15:11:42,928 - INFO -     * Fromanvirus - Halococcus: 5 次
+2025-04-14 15:11:42,928 - INFO -     * Teseptimavirus - Methanobrevibacter: 4 次
+2025-04-14 15:11:42,928 - INFO -     * Bixzunavirus - Methanobrevibacter: 4 次
+2025-04-14 15:11:42,928 - INFO -   - genus 级别 (Host-Phage):
+2025-04-14 15:11:42,928 - INFO -     * Mycolicibacterium - Fromanvirus: 72 次
+2025-04-14 15:11:42,928 - INFO -     * Escherichia - Sinsheimervirus: 34 次
+2025-04-14 15:11:42,928 - INFO -     * Lactococcus - Skunavirus: 29 次
+2025-04-14 15:11:42,928 - INFO -     * Mycolicibacterium - Cheoctovirus: 28 次
+2025-04-14 15:11:42,928 - INFO -     * Cutibacterium - Pahexavirus: 24 次
+2025-04-14 15:11:42,929 - INFO -   - genus 级别 (Host-Non-host):
+2025-04-14 15:11:42,929 - INFO -     * Escherichia - Methanobrevibacter: 22 次
+2025-04-14 15:11:42,929 - INFO -     * Mycolicibacterium - Methanobrevibacter: 21 次
+2025-04-14 15:11:42,929 - INFO -     * Pseudomonas - Methanobrevibacter: 11 次
+2025-04-14 15:11:42,929 - INFO -     * Mycolicibacterium - Sulfolobus: 11 次
+2025-04-14 15:11:42,929 - INFO -     * Staphylococcus - Methanobrevibacter: 10 次
+2025-04-14 15:11:42,929 - INFO -   - genus 级别 (Non-host-Phage):
+2025-04-14 15:11:42,930 - INFO -     * Methanobrevibacter - Fromanvirus: 6 次
+2025-04-14 15:11:42,930 - INFO -     * Methanobrevibacter - Sinsheimervirus: 5 次
+2025-04-14 15:11:42,930 - INFO -     * Halococcus - Fromanvirus: 5 次
+2025-04-14 15:11:42,930 - INFO -     * Methanobrevibacter - Teseptimavirus: 4 次
+2025-04-14 15:11:42,930 - INFO -     * Methanobrevibacter - Bixzunavirus: 4 次
+2025-04-14 15:11:42,930 - INFO -   - genus 级别 (Non-host-Host):
+2025-04-14 15:11:42,930 - INFO -     * Methanobrevibacter - Escherichia: 22 次
+2025-04-14 15:11:42,930 - INFO -     * Methanobrevibacter - Mycolicibacterium: 21 次
+2025-04-14 15:11:42,931 - INFO -     * Methanobrevibacter - Pseudomonas: 11 次
+2025-04-14 15:11:42,931 - INFO -     * Sulfolobus - Mycolicibacterium: 11 次
+2025-04-14 15:11:42,931 - INFO -     * Methanobrevibacter - Staphylococcus: 10 次
+2025-04-14 15:11:42,931 - INFO - 正在创建分类学映射...
+2025-04-14 15:11:42,931 - INFO - 创建了分类学映射字典，包含 863 个条目
+2025-04-14 15:11:42,932 - INFO - 正在保存分类学数据...
+2025-04-14 15:11:42,943 - INFO - 分类学值已保存至: data\taxonomy_values.json
+2025-04-14 15:11:42,951 - INFO - 分类学映射已保存至: data\taxonomy_mapping.json
+2025-04-14 15:11:42,954 - INFO - 简化的分类学映射已保存至: data\taxonomy_node_mapping.json
+2025-04-14 15:11:42,954 - INFO - 
+分析所有工作表的分类学信息:
+2025-04-14 15:11:42,954 - INFO - 
+工作表: Training set on kingdom level
+2025-04-14 15:11:42,955 - INFO - 列名: ['Phage', 'Taxonomy', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Host', 'Taxonomy.1', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Non-host', 'Taxonomy.2', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19', 'Unnamed: 20']
+2025-04-14 15:11:42,955 - INFO - 第一行: ['accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus']
+2025-04-14 15:11:42,955 - INFO - 检测到第一行包含分类学级别信息
+2025-04-14 15:11:42,955 - INFO - 识别的分类学列: {'Phage': {'accession': 0, 'kingdom': 1, 'phylum': 2, 'class': 3, 'order': 4, 'family': 5, 'genus': 6}, 'Host': {'accession': 7, 'kingdom': 8, 'phylum': 9, 'class': 10, 'order': 11, 'family': 12, 'genus': 13}, 'Non-host': {'accession': 14, 'kingdom': 15, 'phylum': 16, 'class': 17, 'order': 18, 'family': 19, 'genus': 20}}
+2025-04-14 15:11:43,432 - INFO - 
+Phage 分类学级别:
+2025-04-14 15:11:43,432 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:43,432 - INFO -     示例: ['Bacteria', 'Viruses']
+2025-04-14 15:11:43,432 - INFO -   - phylum: 9 个唯一值
+2025-04-14 15:11:43,432 - INFO -     示例: ['Dividoviricota', 'Duplornaviricota', 'Hofneiviricota', 'Lenarviricota', 'Phixviricota']
+2025-04-14 15:11:43,433 - INFO -   - class: 9 个唯一值
+2025-04-14 15:11:43,433 - INFO -     示例: ['Allassoviricetes', 'Caudoviricetes', 'Faserviricetes', 'Gammaproteobacteria', 'Huolimaviricetes']
+2025-04-14 15:11:43,433 - INFO -   - order: 11 个唯一值
+2025-04-14 15:11:43,433 - INFO -     示例: ['Belfryvirales', 'Caudovirales', 'Enterobacterales', 'Halopanivirales', 'Haloruvirales']
+2025-04-14 15:11:43,434 - INFO -   - family: 24 个唯一值
+2025-04-14 15:11:43,434 - INFO -     示例: ['Ackermannviridae', 'Ampullaviridae', 'Autographiviridae', 'Bicaudaviridae', 'Chaseviridae']
+2025-04-14 15:11:43,434 - INFO -   - genus: 335 个唯一值
+2025-04-14 15:11:43,434 - INFO -     示例: ['Abidjanvirus', 'Abouovirus', 'Acadianvirus', 'Acionnavirus', 'Aerosvirus']
+2025-04-14 15:11:43,435 - INFO - 
+Host 分类学级别:
+2025-04-14 15:11:43,435 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:43,435 - INFO -     示例: ['Archaea', 'Bacteria']
+2025-04-14 15:11:43,435 - INFO -   - phylum: 10 个唯一值
+2025-04-14 15:11:43,435 - INFO -     示例: ['Actinobacteria', 'Bacteroidetes', 'Chlamydiae', 'Crenarchaeota', 'Cyanobacteria']
+2025-04-14 15:11:43,436 - INFO -   - class: 19 个唯一值
+2025-04-14 15:11:43,436 - INFO -     示例: ['Actinobacteria', 'Alphaproteobacteria', 'Bacilli', 'Bacteroidia', 'Betaproteobacteria']
+2025-04-14 15:11:43,436 - INFO -   - order: 42 个唯一值
+2025-04-14 15:11:43,436 - INFO -     示例: ['Actinomycetales', 'Aeromonadales', 'Alteromonadales', 'Bacillales', 'Bacteroidales']
+2025-04-14 15:11:43,436 - INFO -   - family: 74 个唯一值
+2025-04-14 15:11:43,436 - INFO -     示例: ['Actinomycetaceae', 'Aeromonadaceae', 'Alcaligenaceae', 'Alteromonadaceae', 'Bacillaceae']
+2025-04-14 15:11:43,436 - INFO -   - genus: 124 个唯一值
+2025-04-14 15:11:43,436 - INFO -     示例: ['Achromobacter', 'Acidianus', 'Acinetobacter', 'Actinomyces', 'Aeromonas']
+2025-04-14 15:11:43,438 - INFO - 
+Non-host 分类学级别:
+2025-04-14 15:11:43,438 - INFO -   - kingdom: 3 个唯一值
+2025-04-14 15:11:43,438 - INFO -     示例: ['Archaea', 'Bacteria', 'Eukaryota']
+2025-04-14 15:11:43,438 - INFO -   - phylum: 9 个唯一值
+2025-04-14 15:11:43,438 - INFO -     示例: ['Actinobacteria', 'Arthropoda', 'Crenarchaeota', 'Euryarchaeota', 'Firmicutes']
+2025-04-14 15:11:43,438 - INFO -   - class: 18 个唯一值
+2025-04-14 15:11:43,438 - INFO -     示例: ['Actinobacteria', 'Alphaproteobacteria', 'Archaeoglobi', 'Bacilli', 'Betaproteobacteria']
+2025-04-14 15:11:43,439 - INFO -   - order: 37 个唯一值
+2025-04-14 15:11:43,439 - INFO -     示例: ['Acidilobales', 'Archaeoglobales', 'Bacillales', 'Burkholderiales', 'Campylobacterales']
+2025-04-14 15:11:43,439 - INFO -   - family: 50 个唯一值
+2025-04-14 15:11:43,439 - INFO -     示例: ['Alicyclobacillaceae', 'Archaeoglobaceae', 'Bacillidae', 'Bradyrhizobiaceae', 'Caldisphaeraceae']
+2025-04-14 15:11:43,439 - INFO -   - genus: 85 个唯一值
+2025-04-14 15:11:43,439 - INFO -     示例: ['Acidiplasma', 'Acidovorax', 'Aciduliprofundum', 'Acinetobacter', 'Aeropyrum']
+2025-04-14 15:11:43,439 - INFO - 
+工作表: Training set on phylum level
+2025-04-14 15:11:43,440 - INFO - 列名: ['Phage', 'Taxonomy', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Host', 'Taxonomy.1', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Non-host', 'Taxonomy.2', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19', 'Unnamed: 20']
+2025-04-14 15:11:43,440 - INFO - 第一行: ['accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus']
+2025-04-14 15:11:43,440 - INFO - 检测到第一行包含分类学级别信息
+2025-04-14 15:11:43,440 - INFO - 识别的分类学列: {'Phage': {'accession': 0, 'kingdom': 1, 'phylum': 2, 'class': 3, 'order': 4, 'family': 5, 'genus': 6}, 'Host': {'accession': 7, 'kingdom': 8, 'phylum': 9, 'class': 10, 'order': 11, 'family': 12, 'genus': 13}, 'Non-host': {'accession': 14, 'kingdom': 15, 'phylum': 16, 'class': 17, 'order': 18, 'family': 19, 'genus': 20}}
+2025-04-14 15:11:43,912 - INFO - 
+Phage 分类学级别:
+2025-04-14 15:11:43,912 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:43,913 - INFO -     示例: ['Bacteria', 'Viruses']
+2025-04-14 15:11:43,913 - INFO -   - phylum: 9 个唯一值
+2025-04-14 15:11:43,913 - INFO -     示例: ['Dividoviricota', 'Duplornaviricota', 'Hofneiviricota', 'Lenarviricota', 'Phixviricota']
+2025-04-14 15:11:43,914 - INFO -   - class: 9 个唯一值
+2025-04-14 15:11:43,914 - INFO -     示例: ['Allassoviricetes', 'Caudoviricetes', 'Faserviricetes', 'Gammaproteobacteria', 'Huolimaviricetes']
+2025-04-14 15:11:43,914 - INFO -   - order: 11 个唯一值
+2025-04-14 15:11:43,915 - INFO -     示例: ['Belfryvirales', 'Caudovirales', 'Enterobacterales', 'Halopanivirales', 'Haloruvirales']
+2025-04-14 15:11:43,915 - INFO -   - family: 24 个唯一值
+2025-04-14 15:11:43,915 - INFO -     示例: ['Ackermannviridae', 'Ampullaviridae', 'Autographiviridae', 'Bicaudaviridae', 'Chaseviridae']
+2025-04-14 15:11:43,915 - INFO -   - genus: 335 个唯一值
+2025-04-14 15:11:43,916 - INFO -     示例: ['Abidjanvirus', 'Abouovirus', 'Acadianvirus', 'Acionnavirus', 'Aerosvirus']
+2025-04-14 15:11:43,916 - INFO - 
+Host 分类学级别:
+2025-04-14 15:11:43,916 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:43,916 - INFO -     示例: ['Archaea', 'Bacteria']
+2025-04-14 15:11:43,916 - INFO -   - phylum: 10 个唯一值
+2025-04-14 15:11:43,917 - INFO -     示例: ['Actinobacteria', 'Bacteroidetes', 'Chlamydiae', 'Crenarchaeota', 'Cyanobacteria']
+2025-04-14 15:11:43,917 - INFO -   - class: 19 个唯一值
+2025-04-14 15:11:43,917 - INFO -     示例: ['Actinobacteria', 'Alphaproteobacteria', 'Bacilli', 'Bacteroidia', 'Betaproteobacteria']
+2025-04-14 15:11:43,917 - INFO -   - order: 42 个唯一值
+2025-04-14 15:11:43,917 - INFO -     示例: ['Actinomycetales', 'Aeromonadales', 'Alteromonadales', 'Bacillales', 'Bacteroidales']
+2025-04-14 15:11:43,918 - INFO -   - family: 74 个唯一值
+2025-04-14 15:11:43,918 - INFO -     示例: ['Actinomycetaceae', 'Aeromonadaceae', 'Alcaligenaceae', 'Alteromonadaceae', 'Bacillaceae']
+2025-04-14 15:11:43,918 - INFO -   - genus: 124 个唯一值
+2025-04-14 15:11:43,918 - INFO -     示例: ['Achromobacter', 'Acidianus', 'Acinetobacter', 'Actinomyces', 'Aeromonas']
+2025-04-14 15:11:43,918 - INFO - 
+Non-host 分类学级别:
+2025-04-14 15:11:43,919 - INFO -   - kingdom: 3 个唯一值
+2025-04-14 15:11:43,919 - INFO -     示例: ['Archaea', 'Bacteria', 'Eukaryota']
+2025-04-14 15:11:43,919 - INFO -   - phylum: 23 个唯一值
+2025-04-14 15:11:43,919 - INFO -     示例: ['Acidobacteria', 'Actinobacteria', 'Arthropoda', 'Bacteroidetes', 'Chlamydiae']
+2025-04-14 15:11:43,919 - INFO -   - class: 40 个唯一值
+2025-04-14 15:11:43,919 - INFO -     示例: ['Acidimicrobiia', 'Acidobacteriia', 'Actinobacteria', 'Alphaproteobacteria', 'Archaeoglobi']
+2025-04-14 15:11:43,919 - INFO -   - order: 87 个唯一值
+2025-04-14 15:11:43,919 - INFO -     示例: ['Acidimicrobiales', 'Acidobacteriales', 'Actinomycetales', 'Actinopolysporales', 'Aeromonadales']
+2025-04-14 15:11:43,920 - INFO -   - family: 150 个唯一值
+2025-04-14 15:11:43,920 - INFO -     示例: ['Acetobacteraceae', 'Acidimicrobiaceae', 'Acidobacteriaceae', 'Actinomycetaceae', 'Actinopolysporaceae']
+2025-04-14 15:11:43,920 - INFO -   - genus: 268 个唯一值
+2025-04-14 15:11:43,920 - INFO -     示例: ['Acetobacter', 'Acidimicrobium', 'Acidiplasma', 'Acidovorax', 'Acinetobacter']
+2025-04-14 15:11:43,920 - INFO - 
+工作表: Training set on class level
+2025-04-14 15:11:43,920 - INFO - 列名: ['Phage', 'Taxonomy', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Host', 'Taxonomy.1', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Non-host', 'Taxonomy.2', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19', 'Unnamed: 20']
+2025-04-14 15:11:43,921 - INFO - 第一行: ['accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus']
+2025-04-14 15:11:43,921 - INFO - 检测到第一行包含分类学级别信息
+2025-04-14 15:11:43,921 - INFO - 识别的分类学列: {'Phage': {'accession': 0, 'kingdom': 1, 'phylum': 2, 'class': 3, 'order': 4, 'family': 5, 'genus': 6}, 'Host': {'accession': 7, 'kingdom': 8, 'phylum': 9, 'class': 10, 'order': 11, 'family': 12, 'genus': 13}, 'Non-host': {'accession': 14, 'kingdom': 15, 'phylum': 16, 'class': 17, 'order': 18, 'family': 19, 'genus': 20}}
+2025-04-14 15:11:44,393 - INFO - 
+Phage 分类学级别:
+2025-04-14 15:11:44,394 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:44,394 - INFO -     示例: ['Bacteria', 'Viruses']
+2025-04-14 15:11:44,394 - INFO -   - phylum: 9 个唯一值
+2025-04-14 15:11:44,394 - INFO -     示例: ['Dividoviricota', 'Duplornaviricota', 'Hofneiviricota', 'Lenarviricota', 'Phixviricota']
+2025-04-14 15:11:44,395 - INFO -   - class: 9 个唯一值
+2025-04-14 15:11:44,395 - INFO -     示例: ['Allassoviricetes', 'Caudoviricetes', 'Faserviricetes', 'Gammaproteobacteria', 'Huolimaviricetes']
+2025-04-14 15:11:44,395 - INFO -   - order: 11 个唯一值
+2025-04-14 15:11:44,396 - INFO -     示例: ['Belfryvirales', 'Caudovirales', 'Enterobacterales', 'Halopanivirales', 'Haloruvirales']
+2025-04-14 15:11:44,396 - INFO -   - family: 24 个唯一值
+2025-04-14 15:11:44,396 - INFO -     示例: ['Ackermannviridae', 'Ampullaviridae', 'Autographiviridae', 'Bicaudaviridae', 'Chaseviridae']
+2025-04-14 15:11:44,396 - INFO -   - genus: 335 个唯一值
+2025-04-14 15:11:44,396 - INFO -     示例: ['Abidjanvirus', 'Abouovirus', 'Acadianvirus', 'Acionnavirus', 'Aerosvirus']
+2025-04-14 15:11:44,396 - INFO - 
+Host 分类学级别:
+2025-04-14 15:11:44,398 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:44,398 - INFO -     示例: ['Archaea', 'Bacteria']
+2025-04-14 15:11:44,398 - INFO -   - phylum: 10 个唯一值
+2025-04-14 15:11:44,398 - INFO -     示例: ['Actinobacteria', 'Bacteroidetes', 'Chlamydiae', 'Crenarchaeota', 'Cyanobacteria']
+2025-04-14 15:11:44,399 - INFO -   - class: 19 个唯一值
+2025-04-14 15:11:44,399 - INFO -     示例: ['Actinobacteria', 'Alphaproteobacteria', 'Bacilli', 'Bacteroidia', 'Betaproteobacteria']
+2025-04-14 15:11:44,399 - INFO -   - order: 42 个唯一值
+2025-04-14 15:11:44,399 - INFO -     示例: ['Actinomycetales', 'Aeromonadales', 'Alteromonadales', 'Bacillales', 'Bacteroidales']
+2025-04-14 15:11:44,399 - INFO -   - family: 74 个唯一值
+2025-04-14 15:11:44,400 - INFO -     示例: ['Actinomycetaceae', 'Aeromonadaceae', 'Alcaligenaceae', 'Alteromonadaceae', 'Bacillaceae']
+2025-04-14 15:11:44,400 - INFO -   - genus: 124 个唯一值
+2025-04-14 15:11:44,400 - INFO -     示例: ['Achromobacter', 'Acidianus', 'Acinetobacter', 'Actinomyces', 'Aeromonas']
+2025-04-14 15:11:44,400 - INFO - 
+Non-host 分类学级别:
+2025-04-14 15:11:44,400 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:44,401 - INFO -     示例: ['Archaea', 'Bacteria']
+2025-04-14 15:11:44,401 - INFO -   - phylum: 17 个唯一值
+2025-04-14 15:11:44,401 - INFO -     示例: ['Actinobacteria', 'Bacteroidetes', 'Chlamydiae', 'Chloroflexi', 'Crenarchaeota']
+2025-04-14 15:11:44,401 - INFO -   - class: 35 个唯一值
+2025-04-14 15:11:44,401 - INFO -     示例: ['Acidimicrobiia', 'Acidithiobacillia', 'Actinobacteria', 'Alphaproteobacteria', 'Archaeoglobi']
+2025-04-14 15:11:44,401 - INFO -   - order: 89 个唯一值
+2025-04-14 15:11:44,401 - INFO -     示例: ['Acholeplasmatales', 'Acidaminococcales', 'Acidilobales', 'Acidimicrobiales', 'Acidithiobacillales']
+2025-04-14 15:11:44,402 - INFO -   - family: 157 个唯一值
+2025-04-14 15:11:44,402 - INFO -     示例: ['Acetobacteraceae', 'Acholeplasmataceae', 'Acidaminococcaceae', 'Acidimicrobiaceae', 'Acidithiobacillaceae']
+2025-04-14 15:11:44,402 - INFO -   - genus: 273 个唯一值
+2025-04-14 15:11:44,402 - INFO -     示例: ['Acetobacter', 'Acidaminococcus', 'Acidimicrobium', 'Acidithiobacillus', 'Acidovorax']
+2025-04-14 15:11:44,402 - INFO - 
+工作表: Training set on order level
+2025-04-14 15:11:44,403 - INFO - 列名: ['Phage', 'Taxonomy', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Host', 'Taxonomy.1', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Non-host', 'Taxonomy.2', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19', 'Unnamed: 20']
+2025-04-14 15:11:44,403 - INFO - 第一行: ['accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus']
+2025-04-14 15:11:44,403 - INFO - 检测到第一行包含分类学级别信息
+2025-04-14 15:11:44,403 - INFO - 识别的分类学列: {'Phage': {'accession': 0, 'kingdom': 1, 'phylum': 2, 'class': 3, 'order': 4, 'family': 5, 'genus': 6}, 'Host': {'accession': 7, 'kingdom': 8, 'phylum': 9, 'class': 10, 'order': 11, 'family': 12, 'genus': 13}, 'Non-host': {'accession': 14, 'kingdom': 15, 'phylum': 16, 'class': 17, 'order': 18, 'family': 19, 'genus': 20}}
+2025-04-14 15:11:44,895 - INFO - 
+Phage 分类学级别:
+2025-04-14 15:11:44,895 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:44,895 - INFO -     示例: ['Bacteria', 'Viruses']
+2025-04-14 15:11:44,895 - INFO -   - phylum: 9 个唯一值
+2025-04-14 15:11:44,895 - INFO -     示例: ['Dividoviricota', 'Duplornaviricota', 'Hofneiviricota', 'Lenarviricota', 'Phixviricota']
+2025-04-14 15:11:44,896 - INFO -   - class: 9 个唯一值
+2025-04-14 15:11:44,896 - INFO -     示例: ['Allassoviricetes', 'Caudoviricetes', 'Faserviricetes', 'Gammaproteobacteria', 'Huolimaviricetes']
+2025-04-14 15:11:44,896 - INFO -   - order: 11 个唯一值
+2025-04-14 15:11:44,896 - INFO -     示例: ['Belfryvirales', 'Caudovirales', 'Enterobacterales', 'Halopanivirales', 'Haloruvirales']
+2025-04-14 15:11:44,896 - INFO -   - family: 24 个唯一值
+2025-04-14 15:11:44,896 - INFO -     示例: ['Ackermannviridae', 'Ampullaviridae', 'Autographiviridae', 'Bicaudaviridae', 'Chaseviridae']
+2025-04-14 15:11:44,897 - INFO -   - genus: 335 个唯一值
+2025-04-14 15:11:44,897 - INFO -     示例: ['Abidjanvirus', 'Abouovirus', 'Acadianvirus', 'Acionnavirus', 'Aerosvirus']
+2025-04-14 15:11:44,897 - INFO - 
+Host 分类学级别:
+2025-04-14 15:11:44,897 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:44,897 - INFO -     示例: ['Archaea', 'Bacteria']
+2025-04-14 15:11:44,897 - INFO -   - phylum: 10 个唯一值
+2025-04-14 15:11:44,898 - INFO -     示例: ['Actinobacteria', 'Bacteroidetes', 'Chlamydiae', 'Crenarchaeota', 'Cyanobacteria']
+2025-04-14 15:11:44,898 - INFO -   - class: 19 个唯一值
+2025-04-14 15:11:44,898 - INFO -     示例: ['Actinobacteria', 'Alphaproteobacteria', 'Bacilli', 'Bacteroidia', 'Betaproteobacteria']
+2025-04-14 15:11:44,898 - INFO -   - order: 42 个唯一值
+2025-04-14 15:11:44,898 - INFO -     示例: ['Actinomycetales', 'Aeromonadales', 'Alteromonadales', 'Bacillales', 'Bacteroidales']
+2025-04-14 15:11:44,898 - INFO -   - family: 74 个唯一值
+2025-04-14 15:11:44,899 - INFO -     示例: ['Actinomycetaceae', 'Aeromonadaceae', 'Alcaligenaceae', 'Alteromonadaceae', 'Bacillaceae']
+2025-04-14 15:11:44,899 - INFO -   - genus: 124 个唯一值
+2025-04-14 15:11:44,899 - INFO -     示例: ['Achromobacter', 'Acidianus', 'Acinetobacter', 'Actinomyces', 'Aeromonas']
+2025-04-14 15:11:44,899 - INFO - 
+Non-host 分类学级别:
+2025-04-14 15:11:44,899 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:44,899 - INFO -     示例: ['Archaea', 'Bacteria']
+2025-04-14 15:11:44,899 - INFO -   - phylum: 21 个唯一值
+2025-04-14 15:11:44,899 - INFO -     示例: ['Actinobacteria', 'Aquificae', 'Bacteroidetes', 'Caldiserica', 'Candidatus Aerophobetes']
+2025-04-14 15:11:44,900 - INFO -   - class: 36 个唯一值
+2025-04-14 15:11:44,900 - INFO -     示例: ['Actinobacteria', 'Alphaproteobacteria', 'Aquificae', 'Bacilli', 'Bacteroidia']
+2025-04-14 15:11:44,900 - INFO -   - order: 84 个唯一值
+2025-04-14 15:11:44,900 - INFO -     示例: ['Actinomycetales', 'Aeromonadales', 'Alteromonadales', 'Aquificales', 'Bacillales']
+2025-04-14 15:11:44,900 - INFO -   - family: 156 个唯一值
+2025-04-14 15:11:44,900 - INFO -     示例: ['Acetobacteraceae', 'Actinomycetaceae', 'Aeromonadaceae', 'Alcaligenaceae', 'Alcanivoracaceae']
+2025-04-14 15:11:44,901 - INFO -   - genus: 276 个唯一值
+2025-04-14 15:11:44,901 - INFO -     示例: ['Acetobacter', 'Acidocella', 'Acidovorax', 'Acinetobacter', 'Actibacterium']
+2025-04-14 15:11:44,901 - INFO - 
+工作表: Training set on family level
+2025-04-14 15:11:44,901 - INFO - 列名: ['Phage', 'Taxonomy', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Host', 'Taxonomy.1', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Non-host', 'Taxonomy.2', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19', 'Unnamed: 20']
+2025-04-14 15:11:44,902 - INFO - 第一行: ['accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus']
+2025-04-14 15:11:44,902 - INFO - 检测到第一行包含分类学级别信息
+2025-04-14 15:11:44,902 - INFO - 识别的分类学列: {'Phage': {'accession': 0, 'kingdom': 1, 'phylum': 2, 'class': 3, 'order': 4, 'family': 5, 'genus': 6}, 'Host': {'accession': 7, 'kingdom': 8, 'phylum': 9, 'class': 10, 'order': 11, 'family': 12, 'genus': 13}, 'Non-host': {'accession': 14, 'kingdom': 15, 'phylum': 16, 'class': 17, 'order': 18, 'family': 19, 'genus': 20}}
+2025-04-14 15:11:45,396 - INFO - 
+Phage 分类学级别:
+2025-04-14 15:11:45,396 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:45,396 - INFO -     示例: ['Bacteria', 'Viruses']
+2025-04-14 15:11:45,396 - INFO -   - phylum: 9 个唯一值
+2025-04-14 15:11:45,398 - INFO -     示例: ['Dividoviricota', 'Duplornaviricota', 'Hofneiviricota', 'Lenarviricota', 'Phixviricota']
+2025-04-14 15:11:45,398 - INFO -   - class: 9 个唯一值
+2025-04-14 15:11:45,398 - INFO -     示例: ['Allassoviricetes', 'Caudoviricetes', 'Faserviricetes', 'Gammaproteobacteria', 'Huolimaviricetes']
+2025-04-14 15:11:45,399 - INFO -   - order: 11 个唯一值
+2025-04-14 15:11:45,399 - INFO -     示例: ['Belfryvirales', 'Caudovirales', 'Enterobacterales', 'Halopanivirales', 'Haloruvirales']
+2025-04-14 15:11:45,399 - INFO -   - family: 24 个唯一值
+2025-04-14 15:11:45,400 - INFO -     示例: ['Ackermannviridae', 'Ampullaviridae', 'Autographiviridae', 'Bicaudaviridae', 'Chaseviridae']
+2025-04-14 15:11:45,400 - INFO -   - genus: 335 个唯一值
+2025-04-14 15:11:45,400 - INFO -     示例: ['Abidjanvirus', 'Abouovirus', 'Acadianvirus', 'Acionnavirus', 'Aerosvirus']
+2025-04-14 15:11:45,400 - INFO - 
+Host 分类学级别:
+2025-04-14 15:11:45,401 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:45,401 - INFO -     示例: ['Archaea', 'Bacteria']
+2025-04-14 15:11:45,401 - INFO -   - phylum: 10 个唯一值
+2025-04-14 15:11:45,401 - INFO -     示例: ['Actinobacteria', 'Bacteroidetes', 'Chlamydiae', 'Crenarchaeota', 'Cyanobacteria']
+2025-04-14 15:11:45,402 - INFO -   - class: 19 个唯一值
+2025-04-14 15:11:45,402 - INFO -     示例: ['Actinobacteria', 'Alphaproteobacteria', 'Bacilli', 'Bacteroidia', 'Betaproteobacteria']
+2025-04-14 15:11:45,402 - INFO -   - order: 42 个唯一值
+2025-04-14 15:11:45,402 - INFO -     示例: ['Actinomycetales', 'Aeromonadales', 'Alteromonadales', 'Bacillales', 'Bacteroidales']
+2025-04-14 15:11:45,402 - INFO -   - family: 74 个唯一值
+2025-04-14 15:11:45,403 - INFO -     示例: ['Actinomycetaceae', 'Aeromonadaceae', 'Alcaligenaceae', 'Alteromonadaceae', 'Bacillaceae']
+2025-04-14 15:11:45,403 - INFO -   - genus: 124 个唯一值
+2025-04-14 15:11:45,403 - INFO -     示例: ['Achromobacter', 'Acidianus', 'Acinetobacter', 'Actinomyces', 'Aeromonas']
+2025-04-14 15:11:45,403 - INFO - 
+Non-host 分类学级别:
+2025-04-14 15:11:45,403 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:45,403 - INFO -     示例: ['Archaea', 'Bacteria']
+2025-04-14 15:11:45,404 - INFO -   - phylum: 19 个唯一值
+2025-04-14 15:11:45,404 - INFO -     示例: ['Actinobacteria', 'Bacteroidetes', 'Candidatus Fervidibacteria', 'Chlamydiae', 'Chloroflexi']
+2025-04-14 15:11:45,404 - INFO -   - class: 36 个唯一值
+2025-04-14 15:11:45,404 - INFO -     示例: ['Acidimicrobiia', 'Acidithiobacillia', 'Actinobacteria', 'Alphaproteobacteria', 'Bacilli']
+2025-04-14 15:11:45,404 - INFO -   - order: 83 个唯一值
+2025-04-14 15:11:45,404 - INFO -     示例: ['Acidaminococcales', 'Acidimicrobiales', 'Acidithiobacillales', 'Actinomycetales', 'Aeromonadales']
+2025-04-14 15:11:45,405 - INFO -   - family: 153 个唯一值
+2025-04-14 15:11:45,405 - INFO -     示例: ['Acetobacteraceae', 'Acidaminococcaceae', 'Acidithiobacillaceae', 'Actinomycetaceae', 'Aerococcaceae']
+2025-04-14 15:11:45,405 - INFO -   - genus: 277 个唯一值
+2025-04-14 15:11:45,405 - INFO -     示例: ['Acetobacter', 'Acidaminococcus', 'Acidithiobacillus', 'Acidovorax', 'Acinetobacter']
+2025-04-14 15:11:45,405 - INFO - 
+工作表: Training set on genus level
+2025-04-14 15:11:45,406 - INFO - 列名: ['Phage', 'Taxonomy', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Host', 'Taxonomy.1', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Non-host', 'Taxonomy.2', 'Unnamed: 16', 'Unnamed: 17', 'Unnamed: 18', 'Unnamed: 19', 'Unnamed: 20']
+2025-04-14 15:11:45,406 - INFO - 第一行: ['accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'accession', 'kingdom', 'phylum', 'class', 'order', 'family', 'genus']
+2025-04-14 15:11:45,406 - INFO - 检测到第一行包含分类学级别信息
+2025-04-14 15:11:45,407 - INFO - 识别的分类学列: {'Phage': {'accession': 0, 'kingdom': 1, 'phylum': 2, 'class': 3, 'order': 4, 'family': 5, 'genus': 6}, 'Host': {'accession': 7, 'kingdom': 8, 'phylum': 9, 'class': 10, 'order': 11, 'family': 12, 'genus': 13}, 'Non-host': {'accession': 14, 'kingdom': 15, 'phylum': 16, 'class': 17, 'order': 18, 'family': 19, 'genus': 20}}
+2025-04-14 15:11:45,908 - INFO - 
+Phage 分类学级别:
+2025-04-14 15:11:45,909 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:45,910 - INFO -     示例: ['Bacteria', 'Viruses']
+2025-04-14 15:11:45,910 - INFO -   - phylum: 9 个唯一值
+2025-04-14 15:11:45,910 - INFO -     示例: ['Dividoviricota', 'Duplornaviricota', 'Hofneiviricota', 'Lenarviricota', 'Phixviricota']
+2025-04-14 15:11:45,910 - INFO -   - class: 9 个唯一值
+2025-04-14 15:11:45,910 - INFO -     示例: ['Allassoviricetes', 'Caudoviricetes', 'Faserviricetes', 'Gammaproteobacteria', 'Huolimaviricetes']
+2025-04-14 15:11:45,911 - INFO -   - order: 11 个唯一值
+2025-04-14 15:11:45,911 - INFO -     示例: ['Belfryvirales', 'Caudovirales', 'Enterobacterales', 'Halopanivirales', 'Haloruvirales']
+2025-04-14 15:11:45,911 - INFO -   - family: 24 个唯一值
+2025-04-14 15:11:45,911 - INFO -     示例: ['Ackermannviridae', 'Ampullaviridae', 'Autographiviridae', 'Bicaudaviridae', 'Chaseviridae']
+2025-04-14 15:11:45,911 - INFO -   - genus: 335 个唯一值
+2025-04-14 15:11:45,911 - INFO -     示例: ['Abidjanvirus', 'Abouovirus', 'Acadianvirus', 'Acionnavirus', 'Aerosvirus']
+2025-04-14 15:11:45,912 - INFO - 
+Host 分类学级别:
+2025-04-14 15:11:45,912 - INFO -   - kingdom: 2 个唯一值
+2025-04-14 15:11:45,912 - INFO -     示例: ['Archaea', 'Bacteria']
+2025-04-14 15:11:45,912 - INFO -   - phylum: 10 个唯一值
+2025-04-14 15:11:45,912 - INFO -     示例: ['Actinobacteria', 'Bacteroidetes', 'Chlamydiae', 'Crenarchaeota', 'Cyanobacteria']
+2025-04-14 15:11:45,912 - INFO -   - class: 19 个唯一值
+2025-04-14 15:11:45,912 - INFO -     示例: ['Actinobacteria', 'Alphaproteobacteria', 'Bacilli', 'Bacteroidia', 'Betaproteobacteria']
+2025-04-14 15:11:45,913 - INFO -   - order: 42 个唯一值
+2025-04-14 15:11:45,913 - INFO -     示例: ['Actinomycetales', 'Aeromonadales', 'Alteromonadales', 'Bacillales', 'Bacteroidales']
+2025-04-14 15:11:45,913 - INFO -   - family: 74 个唯一值
+2025-04-14 15:11:45,913 - INFO -     示例: ['Actinomycetaceae', 'Aeromonadaceae', 'Alcaligenaceae', 'Alteromonadaceae', 'Bacillaceae']
+2025-04-14 15:11:45,913 - INFO -   - genus: 124 个唯一值
+2025-04-14 15:11:45,913 - INFO -     示例: ['Achromobacter', 'Acidianus', 'Acinetobacter', 'Actinomyces', 'Aeromonas']
+2025-04-14 15:11:45,914 - INFO - 
+Non-host 分类学级别:
+2025-04-14 15:11:45,914 - INFO -   - kingdom: 3 个唯一值
+2025-04-14 15:11:45,914 - INFO -     示例: ['Archaea', 'Bacteria', 'Eukaryota']
+2025-04-14 15:11:45,915 - INFO -   - phylum: 23 个唯一值
+2025-04-14 15:11:45,915 - INFO -     示例: ['Acidobacteria', 'Actinobacteria', 'Aquificae', 'Arthropoda', 'Bacteroidetes']
+2025-04-14 15:11:45,915 - INFO -   - class: 39 个唯一值
+2025-04-14 15:11:45,915 - INFO -     示例: ['Acidimicrobiia', 'Actinobacteria', 'Alphaproteobacteria', 'Aquificae', 'Bacilli']
+2025-04-14 15:11:45,916 - INFO -   - order: 90 个唯一值
+2025-04-14 15:11:45,916 - INFO -     示例: ['Acidimicrobiales', 'Actinomycetales', 'Actinopolysporales', 'Aeromonadales', 'Alteromonadales']
+2025-04-14 15:11:45,917 - INFO -   - family: 159 个唯一值
+2025-04-14 15:11:45,917 - INFO -     示例: ['Acetobacteraceae', 'Actinomycetaceae', 'Actinopolysporaceae', 'Aeromonadaceae', 'Alcaligenaceae']
+2025-04-14 15:11:45,917 - INFO -   - genus: 296 个唯一值
+2025-04-14 15:11:45,918 - INFO -     示例: ['Acetobacter', 'Acidovorax', 'Acinetobacter', 'Actinobacillus', 'Actinocatenispora']
+2025-04-14 15:11:45,918 - INFO - 分类学名称分析完成!

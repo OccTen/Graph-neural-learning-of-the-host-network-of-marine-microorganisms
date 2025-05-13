@@ -1,0 +1,7 @@
+metric,value
+train_accuracy,0.9994
+validation_accuracy,0.9794
+test_accuracy,0.9615
+train_f1,0.9994
+validation_f1,0.9795
+test_f1,0.9616

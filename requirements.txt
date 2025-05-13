@@ -1,0 +1,30 @@
+torch>=1.8.0
+torch-geometric>=2.0.0
+numpy>=1.20.0
+pandas>=1.2.0
+matplotlib>=3.3.0
+scikit-learn>=0.24.0
+networkx>=2.5.0
+pyvis>=0.1.9
+tqdm>=4.60.0 -m "初始提交：基于图神经网络的分类学特征推断研究"
+
+# 连接到GitHub仓库(替换为您的用户名和仓库名)
+git remote add origin https://github.com/您的用户名/phage-host-interaction-analysis.git
+
+# 如果您在GitHub上已经创建了README或.gitignore，需要先拉取
+git pull origin main --allow-unrelated-histories
+
+# 推送到GitHub的main分支(现在GitHub默认分支名为main)
+git push -u origin main
+```
+
+如果您在执行命令时遇到权限问题，GitHub现在会要求使用个人访问令牌而不是密码：
+
+1. 在GitHub上点击右上角头像 → Settings → Developer settings → Personal access tokens
+2. 点击"Generate new token"
+3. 为令牌添加描述，例如"Git命令行使用"
+4. 选择权限范围，至少勾选"repo"
+5. 生成并复制令牌
+6. 在执行git push命令时，使用此令牌作为密码
+
+以上步骤完成后，您的项目就成功上传到GitHub了。您可以访问GitHub上的仓库页面查看提交的代码。
